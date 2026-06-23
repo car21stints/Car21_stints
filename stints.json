@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T16:48:20.072760+00:00",
+  "updated_at": "2026-06-23T16:53:23.192218+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260628_E04_24h_Spa\\260628_GTWC_24h_Spa.xlsm",
   "sheet_name": "24h stints",
   "stints": [
@@ -138,7 +138,7 @@
     },
     {
       "stint": 20,
-      "driver": "4-OS",
+      "driver": "1-SB",
       "start": "12:06:44",
       "end": "13:06:44",
       "ready": "10:36:44"
@@ -152,7 +152,7 @@
     },
     {
       "stint": 22,
-      "driver": "1-SB",
+      "driver": "4-OS",
       "start": "14:10:36",
       "end": "15:10:36",
       "ready": "12:40:36"

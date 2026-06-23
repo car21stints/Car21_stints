@@ -1,5 +1,17 @@
-<html>
-<body>
-Car21 Stints
-</body>
-</html>
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Car21 Stints</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#111;color:#eee} .wrap{max-width:980px;margin:auto;padding:18px}.top{display:flex;justify-content:space-between;gap:12px;align-items:end;flex-wrap:wrap}h1{margin:0;font-size:30px}.updated{color:#aaa;font-size:14px}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:18px 0}.card{background:#1d1d1d;border:1px solid #333;border-radius:14px;padding:16px}.label{color:#aaa;font-size:12px;text-transform:uppercase;letter-spacing:.08em}.driver{font-size:42px;font-weight:800;margin:8px 0}.time{font-size:20px}table{width:100%;border-collapse:collapse;background:#181818;border-radius:14px;overflow:hidden}th,td{padding:10px;border-bottom:1px solid #333;text-align:left}th{background:#222;color:#bbb}.done{opacity:.38}.current{background:#2c2c12}.next{background:#102a18}.badge{display:inline-block;border-radius:999px;padding:4px 9px;font-size:12px;font-weight:700}.b-current{background:#e6d900;color:#000}.b-next{background:#54e36c;color:#000}.b-ready{background:#00b7ff;color:#000}.muted{color:#999}.err{background:#421d1d;border:1px solid #743333;padding:12px;border-radius:12px;margin-top:16px}</style>
+</head>
+<body><div class="wrap"><div class="top"><h1>Car21 Stints</h1><div class="updated" id="updated">Loading...</div></div><div id="cards" class="cards"></div><div id="content"></div></div>
+<script>
+function toSec(t){if(!t)return null;const p=t.split(':').map(Number);if(p.length<2)return null;return p[0]*3600+p[1]*60+(p[2]||0)}
+function fmt(t){return t||'-'}
+function classify(stints){const now=new Date();const nowSec=now.getHours()*3600+now.getMinutes()*60+now.getSeconds();let current=-1;for(let i=0;i<stints.length;i++){let s=toSec(stints[i].start), e=toSec(stints[i].end);if(s==null||e==null)continue;if(e<s)e+=86400;let n=nowSec; if(n<s-43200)n+=86400; if(n>=s&&n<e){current=i;break}} if(current<0){for(let i=0;i<stints.length;i++){let s=toSec(stints[i].start); if(s!=null && s>=nowSec){current=i-1;break}}}return current}
+async function load(){try{const res=await fetch('stints.json?ts='+Date.now(),{cache:'no-store'});if(!res.ok)throw new Error('stints.json non trovato');const data=await res.json();const stints=data.stints||[];document.getElementById('updated').textContent='Updated: '+new Date(data.updated_at).toLocaleString();const cur=classify(stints);const current=stints[cur]||null,next=stints[cur+1]||stints.find((_,i)=>i>cur)||stints[0];document.getElementById('cards').innerHTML=`<div class="card"><div class="label">Current driver</div><div class="driver">${current?current.driver:'-'}</div><div class="time">${current?fmt(current.start)+' - '+fmt(current.end):'-'}</div></div><div class="card"><div class="label">Next driver</div><div class="driver">${next?next.driver:'-'}</div><div class="time">Start ${next?fmt(next.start):'-'}</div></div><div class="card"><div class="label">Ready at box</div><div class="driver">${next?fmt(next.ready):'-'}</div><div class="time">Driver ${next?next.driver:'-'}</div></div>`;let rows=stints.map((s,i)=>{let cls=i<cur?'done':i===cur?'current':i===cur+1?'next':'';let badge=i===cur?'<span class="badge b-current">CURRENT</span>':i===cur+1?'<span class="badge b-next">NEXT</span>':'';return `<tr class="${cls}"><td>${s.stint}</td><td><b>${s.driver}</b></td><td>${fmt(s.start)}</td><td>${fmt(s.end)}</td><td>${fmt(s.ready)}</td><td>${badge}</td></tr>`}).join('');document.getElementById('content').innerHTML=`<table><thead><tr><th>Stint</th><th>Driver</th><th>Start</th><th>End</th><th>Ready</th><th>Status</th></tr></thead><tbody>${rows}</tbody></table>`}catch(e){document.getElementById('content').innerHTML='<div class="err">Errore caricamento dati: '+e.message+'</div>'}}
+load();setInterval(load,60000);
+</script></body></html>

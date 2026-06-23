@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-23T07:47:54.479544+00:00",
+  "updated_at": "2026-06-23T08:08:38.487642+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260628_E04_24h_Spa\\260628_GTWC_24h_Spa.xlsm",
   "sheet_name": "24h stints",
   "stints": [
     {
       "stint": 1,
-      "driver": "2-AD",
+      "driver": "1-SB",
       "start": "16:30:00",
       "end": "17:30:00",
       "ready": ""

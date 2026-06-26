@@ -29,7 +29,7 @@
       <h1>Car21 Tyre Preparation</h1>
       <div class="nav"><a href="index.html">Driver stint page</a></div>
     </div>
-    <div class="updated"><span id="updated">Loading...</span><button class="btn" onclick="load(true)">Refresh now</button></div>
+    <div class="updated"><span id="updated">Loading...</span><button class="btn" onclick="load(true)">Reload published data</button></div>
   </div>
   <div id="cards" class="cards"></div>
   <div id="content"></div>
@@ -60,14 +60,14 @@ async function load(manual=false){try{const res=await fetch('tyres.json?ts='+Dat
       <div class="card current"><div class="label">Current tyre set</div><div class="set">${tyreSet(current)}</div><div class="time">${rowTitle(current)}</div><div class="sub">Mounted: ${fmt(current?.mounted)} | Row ${fmt(current?.excel_row)}</div></div>
       <div class="card next"><div class="label">Next tyre set to use</div><div class="set">${tyreSet(next)}</div><div class="time">${rowTitle(next)}</div><div class="sub">Ready: ${fmt(next?.ready)} | Row ${fmt(next?.excel_row)}</div></div>
       <div class="card oven ${oven && isOvenAlert(oven)?'oven-alert':''}"><div class="label">Next tyre set to put in oven</div><div class="set">${tyreSet(oven)}</div><div class="time">Oven time: ${fmt(ovenTime(oven))}</div><div class="sub">Red alert from -5 min to +5 min | Row ${fmt(oven?.excel_row)}</div></div>`;
-    const headers=['Stint','Start','End','Tyre set','In the oven','Mounted','Rim temp','FL','FR','RL','RR','Track temp','Bleed','Status'];
+    const headers=['Stint','Start','End','Tyre set','In the oven','Mounted','Rim temp','FL','FR','RL','RR','Expected track T','Bleed','Status'];
     const head='<tr>'+headers.map((h,i)=>`<th class="${i===3?'gap':''}">${h}</th>`).join('')+'</tr>';
     const body=rows.map((r,i)=>{let cls=i<cur?'done':i===cur?'current-row':i===cur+1?'next-row':'';if(oven&&r.excel_row===oven.excel_row)cls+=' oven-row';if(isOvenAlert(r))cls+=' oven-alert-row';return `<tr class="${cls}">
       <td>${fmt(r.stint)}</td><td>${fmt(r.start)}</td><td>${fmt(r.end)}</td>
       <td class="gap"><b>${fmt(r.tyre_set)}</b></td><td>${fmt(r.in_the_hoven)}</td><td>${fmt(r.mounted)}</td><td class="right">${fmt(r.rim_temp)}</td>
       ${numCell(r.FL)}${numCell(r.FR)}${numCell(r.RL)}${numCell(r.RR)}${numCell(r.track_temp)}${numCell(r.bleed)}
       <td>${statusBadge(i,cur,r,oven)}</td></tr>`}).join('');
-    document.getElementById('content').innerHTML=`<div class="tablewrap"><table><thead>${head}</thead><tbody>${body}</tbody></table></div><div class="small">Displayed columns: A, C, D, then F:O from the same Excel sheet. This page refreshes the published data when you press <b>Refresh now</b> and automatically every 60 seconds. The Excel file is still read and published from the pit-wall PC every 5 minutes.</div>`;
+    document.getElementById('content').innerHTML=`<div class="tablewrap"><table><thead>${head}</thead><tbody>${body}</tbody></table></div><div class="small">Displayed columns: A, C, D, then F:O from the same Excel sheet. This page reloads the latest published data when you press <b>Reload published data</b> and automatically every 60 seconds. To force a new Excel read immediately, run <b>force_update_now.bat</b> on the pit-wall PC.</div>`;
   }catch(e){document.getElementById('content').innerHTML='<div class="err">Tyre data loading error: '+e.message+'</div>'}}
 load();setInterval(()=>load(false),60000);
 </script>

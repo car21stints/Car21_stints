@@ -1,661 +1,407 @@
 {
-  "updated_at": "2026-06-26T19:34:17.952157+00:00",
+  "updated_at": "2026-06-26T19:43:56.289708+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260628_E04_24h_Spa\\260628_GTWC_24h_Spa.xlsm",
   "sheet_name": "24h stints",
-  "headers": [
-    {
-      "col": "A",
-      "name": "stint"
-    },
-    {
-      "col": "C",
-      "name": "start"
-    },
-    {
-      "col": "D",
-      "name": "end"
-    },
-    {
-      "col": "F",
-      "name": "tyre set"
-    },
-    {
-      "col": "G",
-      "name": "in the hoven"
-    },
-    {
-      "col": "H",
-      "name": "mounted"
-    },
-    {
-      "col": "I",
-      "name": "pressure"
-    },
-    {
-      "col": "J",
-      "name": "TEMP"
-    },
-    {
-      "col": "K",
-      "name": "bleed"
-    },
-    {
-      "col": "L",
-      "name": "in the hoven"
-    },
-    {
-      "col": "M",
-      "name": "M"
-    },
-    {
-      "col": "N",
-      "name": "stint"
-    },
-    {
-      "col": "O",
-      "name": "std sequence"
-    }
-  ],
   "rows": [
     {
-      "excel_row": 2,
-      "left": [
-        "1",
-        "16:30:00",
-        "17:30:00"
-      ],
-      "tyres": [
-        "3",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "1",
-        "1-SB"
-      ],
+      "stint": 1,
       "start": "16:30:00",
       "end": "17:30:00",
-      "set": "3",
-      "set_header": "tyre set"
+      "tyre_set": "3",
+      "in_the_hoven": "",
+      "mounted": "",
+      "rim_temp": "35",
+      "FL": "1.0318250042640287",
+      "FR": "1.0528483711410535",
+      "RL": "22:44:44",
+      "RR": "23:30:09",
+      "track_temp": "35",
+      "bleed": "",
+      "excel_row": 2
     },
     {
-      "excel_row": 3,
-      "left": [
-        "2",
-        "17:31:56",
-        "18:31:56"
-      ],
-      "tyres": [
-        "9",
-        "15:31:56",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "2",
-        "3-KP"
-      ],
+      "stint": 2,
       "start": "17:31:56",
       "end": "18:31:56",
-      "set": "9",
-      "set_header": "tyre set"
+      "tyre_set": "9",
+      "in_the_hoven": "15:31:56",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 3
     },
     {
-      "excel_row": 4,
-      "left": [
-        "3",
-        "18:33:52",
-        "19:33:52"
-      ],
-      "tyres": [
-        "10",
-        "16:33:52",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "3",
-        "2-AD"
-      ],
+      "stint": 3,
       "start": "18:33:52",
       "end": "19:33:52",
-      "set": "10",
-      "set_header": "tyre set"
+      "tyre_set": "10",
+      "in_the_hoven": "16:33:52",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 4
     },
     {
-      "excel_row": 5,
-      "left": [
-        "4",
-        "19:35:48",
-        "20:35:48"
-      ],
-      "tyres": [
-        "11",
-        "17:35:48",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "4",
-        "4-OS"
-      ],
+      "stint": 4,
       "start": "19:35:48",
       "end": "20:35:48",
-      "set": "11",
-      "set_header": "tyre set"
+      "tyre_set": "11",
+      "in_the_hoven": "17:35:48",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 5
     },
     {
-      "excel_row": 6,
-      "left": [
-        "5",
-        "20:37:44",
-        "21:37:44"
-      ],
-      "tyres": [
-        "12",
-        "18:37:44",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "5",
-        "3-KP"
-      ],
+      "stint": 5,
       "start": "20:37:44",
       "end": "21:37:44",
-      "set": "12",
-      "set_header": "tyre set"
+      "tyre_set": "12",
+      "in_the_hoven": "18:37:44",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 6
     },
     {
-      "excel_row": 7,
-      "left": [
-        "6",
-        "21:39:40",
-        "22:39:40"
-      ],
-      "tyres": [
-        "13",
-        "19:39:40",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "6",
-        "3-KP"
-      ],
+      "stint": 6,
       "start": "21:39:40",
       "end": "22:39:40",
-      "set": "13",
-      "set_header": "tyre set"
+      "tyre_set": "13",
+      "in_the_hoven": "19:39:40",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 7
     },
     {
-      "excel_row": 8,
-      "left": [
-        "7",
-        "22:41:36",
-        "23:41:36"
-      ],
-      "tyres": [
-        "14",
-        "20:41:36",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "7",
-        "1-SB"
-      ],
+      "stint": 7,
       "start": "22:41:36",
       "end": "23:41:36",
-      "set": "14",
-      "set_header": "tyre set"
+      "tyre_set": "14",
+      "in_the_hoven": "20:41:36",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 8
     },
     {
-      "excel_row": 9,
-      "left": [
-        "8",
-        "23:43:32",
-        "00:43:32"
-      ],
-      "tyres": [
-        "4",
-        "21:43:32",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "8",
-        "1-SB"
-      ],
+      "stint": 8,
       "start": "23:43:32",
       "end": "00:43:32",
-      "set": "4",
-      "set_header": "tyre set"
+      "tyre_set": "4",
+      "in_the_hoven": "21:43:32",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 9
     },
     {
-      "excel_row": 10,
-      "left": [
-        "9",
-        "00:45:28",
-        "01:45:28"
-      ],
-      "tyres": [
-        "15",
-        "22:45:28",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "9",
-        "4-OS"
-      ],
+      "stint": 9,
       "start": "00:45:28",
       "end": "01:45:28",
-      "set": "15",
-      "set_header": "tyre set"
+      "tyre_set": "15",
+      "in_the_hoven": "22:45:28",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 10
     },
     {
-      "excel_row": 11,
-      "left": [
-        "10",
-        "01:47:24",
-        "02:47:24"
-      ],
-      "tyres": [
-        "5",
-        "23:47:24",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "10",
-        "4-OS"
-      ],
+      "stint": 10,
       "start": "01:47:24",
       "end": "02:47:24",
-      "set": "5",
-      "set_header": "tyre set"
+      "tyre_set": "5",
+      "in_the_hoven": "23:47:24",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 11
     },
     {
-      "excel_row": 12,
-      "left": [
-        "11",
-        "02:49:20",
-        "03:49:20"
-      ],
-      "tyres": [
-        "16",
-        "00:49:20",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "11",
-        "3-KP"
-      ],
+      "stint": 11,
       "start": "02:49:20",
       "end": "03:49:20",
-      "set": "16",
-      "set_header": "tyre set"
+      "tyre_set": "16",
+      "in_the_hoven": "00:49:20",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 12
     },
     {
-      "excel_row": 13,
-      "left": [
-        "12",
-        "03:51:16",
-        "04:51:16"
-      ],
-      "tyres": [
-        "17",
-        "01:51:16",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "12",
-        "3-KP"
-      ],
+      "stint": 12,
       "start": "03:51:16",
       "end": "04:51:16",
-      "set": "17",
-      "set_header": "tyre set"
+      "tyre_set": "17",
+      "in_the_hoven": "01:51:16",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 13
     },
     {
-      "excel_row": 14,
-      "left": [
-        "13",
-        "04:53:12",
-        "05:53:12"
-      ],
-      "tyres": [
-        "18",
-        "02:53:12",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "13",
-        "1-SB"
-      ],
+      "stint": 13,
       "start": "04:53:12",
       "end": "05:53:12",
-      "set": "18",
-      "set_header": "tyre set"
+      "tyre_set": "18",
+      "in_the_hoven": "02:53:12",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 14
     },
     {
-      "excel_row": 15,
-      "left": [
-        "14",
-        "05:55:08",
-        "06:55:08"
-      ],
-      "tyres": [
-        "19",
-        "03:55:08",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "14",
-        "1-SB"
-      ],
+      "stint": 14,
       "start": "05:55:08",
       "end": "06:55:08",
-      "set": "19",
-      "set_header": "tyre set"
+      "tyre_set": "19",
+      "in_the_hoven": "03:55:08",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 15
     },
     {
-      "excel_row": 16,
-      "left": [
-        "15",
-        "06:57:04",
-        "07:57:04"
-      ],
-      "tyres": [
-        "6",
-        "04:57:04",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "15",
-        "2-AD"
-      ],
+      "stint": 15,
       "start": "06:57:04",
       "end": "07:57:04",
-      "set": "6",
-      "set_header": "tyre set"
+      "tyre_set": "6",
+      "in_the_hoven": "04:57:04",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 16
     },
     {
-      "excel_row": 17,
-      "left": [
-        "16",
-        "07:59:00",
-        "08:59:00"
-      ],
-      "tyres": [
-        "20",
-        "05:59:00",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "16",
-        "2-AD"
-      ],
+      "stint": 16,
       "start": "07:59:00",
       "end": "08:59:00",
-      "set": "20",
-      "set_header": "tyre set"
+      "tyre_set": "20",
+      "in_the_hoven": "05:59:00",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 17
     },
     {
-      "excel_row": 18,
-      "left": [
-        "17",
-        "09:00:56",
-        "10:00:56"
-      ],
-      "tyres": [
-        "21",
-        "07:00:56",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "17",
-        "4-OS"
-      ],
+      "stint": 17,
       "start": "09:00:56",
       "end": "10:00:56",
-      "set": "21",
-      "set_header": "tyre set"
+      "tyre_set": "21",
+      "in_the_hoven": "07:00:56",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 18
     },
     {
-      "excel_row": 19,
-      "left": [
-        "18",
-        "10:02:52",
-        "11:02:52"
-      ],
-      "tyres": [
-        "22",
-        "08:02:52",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "18",
-        "4-OS"
-      ],
+      "stint": 18,
       "start": "10:02:52",
       "end": "11:02:52",
-      "set": "22",
-      "set_header": "tyre set"
+      "tyre_set": "22",
+      "in_the_hoven": "08:02:52",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 19
     },
     {
-      "excel_row": 20,
-      "left": [
-        "19",
-        "11:04:48",
-        "12:04:48"
-      ],
-      "tyres": [
-        "23",
-        "09:04:48",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "19",
-        "3-KP"
-      ],
+      "stint": 19,
       "start": "11:04:48",
       "end": "12:04:48",
-      "set": "23",
-      "set_header": "tyre set"
+      "tyre_set": "23",
+      "in_the_hoven": "09:04:48",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 20
     },
     {
-      "excel_row": 21,
-      "left": [
-        "20",
-        "12:06:44",
-        "13:06:44"
-      ],
-      "tyres": [
-        "24",
-        "10:06:44",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "20",
-        "1-SB"
-      ],
+      "stint": 20,
       "start": "12:06:44",
       "end": "13:06:44",
-      "set": "24",
-      "set_header": "tyre set"
+      "tyre_set": "24",
+      "in_the_hoven": "10:06:44",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 21
     },
     {
-      "excel_row": 22,
-      "left": [
-        "21",
-        "13:08:40",
-        "14:08:40"
-      ],
-      "tyres": [
-        "25",
-        "11:08:40",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "21",
-        "2-AD"
-      ],
+      "stint": 21,
       "start": "13:08:40",
       "end": "14:08:40",
-      "set": "25",
-      "set_header": "tyre set"
+      "tyre_set": "25",
+      "in_the_hoven": "11:08:40",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 22
     },
     {
-      "excel_row": 23,
-      "left": [
-        "22",
-        "14:10:36",
-        "15:10:36"
-      ],
-      "tyres": [
-        "26",
-        "12:10:36",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "22",
-        "4-OS"
-      ],
+      "stint": 22,
       "start": "14:10:36",
       "end": "15:10:36",
-      "set": "26",
-      "set_header": "tyre set"
+      "tyre_set": "26",
+      "in_the_hoven": "12:10:36",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 23
     },
     {
-      "excel_row": 24,
-      "left": [
-        "23",
-        "15:12:32",
-        "16:12:32"
-      ],
-      "tyres": [
-        "27",
-        "13:12:32",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "23",
-        "3-KP"
-      ],
+      "stint": 23,
       "start": "15:12:32",
       "end": "16:12:32",
-      "set": "27",
-      "set_header": "tyre set"
+      "tyre_set": "27",
+      "in_the_hoven": "13:12:32",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 24
     },
     {
-      "excel_row": 25,
-      "left": [
-        "24",
-        "",
-        ""
-      ],
-      "tyres": [
-        "28",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "24",
-        "3-KP"
-      ],
+      "stint": 24,
       "start": "",
       "end": "",
-      "set": "28",
-      "set_header": "tyre set"
+      "tyre_set": "28",
+      "in_the_hoven": "",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 25
     },
     {
-      "excel_row": 26,
-      "left": [
-        "",
-        "",
-        ""
-      ],
-      "tyres": [
-        "29",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
+      "stint": 0,
       "start": "",
       "end": "",
-      "set": "29",
-      "set_header": "tyre set"
+      "tyre_set": "29",
+      "in_the_hoven": "",
+      "mounted": "",
+      "rim_temp": "",
+      "FL": "",
+      "FR": "",
+      "RL": "",
+      "RR": "",
+      "track_temp": "",
+      "bleed": "",
+      "excel_row": 26
     }
   ]
 }

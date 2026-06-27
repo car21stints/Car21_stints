@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T10:08:22.413295+00:00",
+  "updated_at": "2026-06-27T10:13:54.492576+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260628_E04_24h_Spa\\260628_GTWC_24h_Spa.xlsm",
   "sheet_name": "24h stints",
   "rows": [
@@ -8,7 +8,7 @@
       "start": "16:30:00",
       "end": "17:30:00",
       "tyre_set": "3",
-      "in_the_hoven": "",
+      "in_the_hoven": "13:40:00",
       "mounted": "",
       "rim_temp": "37",
       "FL": "1.07",

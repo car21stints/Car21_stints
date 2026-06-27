@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T19:13:42.572631+00:00",
+  "updated_at": "2026-06-27T19:18:52.371469+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260628_E04_24h_Spa\\260628_GTWC_24h_Spa.xlsm",
   "sheet_name": "24h stints",
   "rows": [
@@ -122,11 +122,11 @@
       "tyre_set": "4",
       "in_the_hoven": "21:00:50",
       "mounted": "",
-      "rim_temp": "",
-      "FL": "",
-      "FR": "",
-      "RL": "",
-      "RR": "",
+      "rim_temp": "33",
+      "FL": "1.04",
+      "FR": "1.06",
+      "RL": "0.95",
+      "RR": "0.99",
       "track_temp": "30",
       "bleed": "",
       "excel_row": 9

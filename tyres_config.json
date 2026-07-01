@@ -1,0 +1,28 @@
+{
+  "page_title": "Car21 Tyre Preparation",
+  "oven_window_minutes": 5,
+  "logic": {
+    "date_col": "B",
+    "time_col": "C",
+    "tyre_set_col": "F",
+    "oven_time_col": "G"
+  },
+  "left_block": [
+    { "title": "Session", "excel_col": "A", "key": "Session" },
+    { "title": "Date", "excel_col": "B", "key": "date", "format": "date" },
+    { "title": "Start", "excel_col": "C", "key": "start", "format": "time" },
+    { "title": "End", "excel_col": "D", "key": "end", "format": "time" }
+  ],
+  "right_block": [
+    { "title": "Tyre set", "excel_col": "F", "key": "tyre_set" },
+    { "title": "In the oven", "excel_col": "G", "key": "in_the_oven", "format": "time" },
+    { "title": "Mounted", "excel_col": "H", "key": "mounted" },
+    { "title": "Rim temp", "excel_col": "I", "key": "rim_temp" },
+    { "title": "FL", "excel_col": "J", "key": "FL", "format": "number", "decimals": 2 },
+    { "title": "FR", "excel_col": "K", "key": "FR", "format": "number", "decimals": 2 },
+    { "title": "RL", "excel_col": "L", "key": "RL", "format": "number", "decimals": 2 },
+    { "title": "RR", "excel_col": "M", "key": "RR", "format": "number", "decimals": 2 },
+    { "title": "Expected track T", "excel_col": "N", "key": "expected_track_t" },
+    { "title": "Bleed", "excel_col": "O", "key": "bleed" }
+  ]
+}

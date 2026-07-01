@@ -1,0 +1,24 @@
+{
+  "page_title": "Car21 Driver Stints",
+  "logic": {
+    "date_col": "B",
+    "time_col": "C",
+    "start_col": "C",
+    "end_col": "D",
+    "driver_col": "B",
+    "ready_col": "E",
+    "carry_forward_date": true,
+    "rollover_midnight": true
+  },
+  "columns": [
+    { "title": "Stint", "excel_col": "A", "key": "stint" },
+    { "title": "Driver", "excel_col": "B", "key": "driver" },
+    { "title": "Start", "excel_col": "C", "key": "start", "format": "time" },
+    { "title": "End", "excel_col": "D", "key": "end", "format": "time" },
+    { "title": "Ready", "excel_col": "E", "key": "ready", "format": "time" }
+  ],
+  "row_filter": {
+    "require_any_excel_col": ["A", "B", "C", "D"],
+    "skip_if_all_empty_excel_col": ["A", "B", "C", "D", "E"]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:18:17.575442+00:00",
+  "updated_at": "2026-07-02T18:21:31.365288+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260704_DTM04_Norisring\\260705_DTM04_Norisring.xlsm",
   "sheet_name": "24h stints",
   "config": {
@@ -15,7 +15,7 @@
     },
     "left_block": [
       {
-        "title": "Session",
+        "title": "Stint / Session",
         "excel_col": "A",
         "key": "stint_session"
       },
@@ -51,14 +51,14 @@
         "format": "time"
       },
       {
+        "title": "Mounted",
+        "excel_col": "H",
+        "key": "mounted"
+      },
+      {
         "title": "Rim temp",
         "excel_col": "I",
         "key": "rim_temp"
-      },
-      {
-        "title": "Expected track T",
-        "excel_col": "N",
-        "key": "expected_track_t"
       },
       {
         "title": "FL",
@@ -87,6 +87,11 @@
         "key": "RR",
         "format": "number",
         "decimals": 2
+      },
+      {
+        "title": "Expected track T",
+        "excel_col": "N",
+        "key": "expected_track_t"
       },
       {
         "title": "Bleed",
@@ -126,12 +131,13 @@
         "end": "11:48:11",
         "tyre_set": "#07-T04-17",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "30.5",
-        "expected_track_t": "25",
         "FL": "1.05",
         "FR": "1.05",
         "RL": "1.01",
         "RR": "1.01",
+        "expected_track_t": "25",
         "bleed": ""
       },
       "tyre_set": "#07-T04-17",
@@ -150,12 +156,13 @@
         "end": "12:03:06",
         "tyre_set": "#07-T04-17",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "30.5",
-        "expected_track_t": "25",
         "FL": "1.05",
         "FR": "1.05",
         "RL": "1.01",
         "RR": "1.01",
+        "expected_track_t": "25",
         "bleed": ""
       },
       "tyre_set": "#07-T04-17",
@@ -174,12 +181,13 @@
         "end": "12:17:02",
         "tyre_set": "#07-D03-19",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "30.5",
-        "expected_track_t": "25",
         "FL": "1.05",
         "FR": "1.05",
         "RL": "1.01",
         "RR": "1.01",
+        "expected_track_t": "25",
         "bleed": ""
       },
       "tyre_set": "#07-D03-19",
@@ -198,12 +206,13 @@
         "end": "16:04:34",
         "tyre_set": "#07-T04-17",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "",
-        "expected_track_t": "",
         "FL": "",
         "FR": "",
         "RL": "",
         "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#07-T04-17",
@@ -222,12 +231,13 @@
         "end": "16:22:45",
         "tyre_set": "#07-D03-19",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "",
-        "expected_track_t": "",
         "FL": "",
         "FR": "",
         "RL": "",
         "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#07-D03-19",
@@ -246,12 +256,13 @@
         "end": "16:29:31",
         "tyre_set": "#07-D04-23",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "30.5",
-        "expected_track_t": "25",
         "FL": "1.05",
         "FR": "1.05",
         "RL": "1.01",
         "RR": "1.01",
+        "expected_track_t": "25",
         "bleed": ""
       },
       "tyre_set": "#07-D04-23",
@@ -270,12 +281,13 @@
         "end": "16:42:42",
         "tyre_set": "#07-D04-23",
         "in_the_oven": "",
+        "mounted": "y",
         "rim_temp": "",
-        "expected_track_t": "",
         "FL": "",
         "FR": "",
         "RL": "",
         "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#07-D04-23",
@@ -294,12 +306,13 @@
         "end": "09:42:45",
         "tyre_set": "#07-D04-24",
         "in_the_oven": "",
+        "mounted": "",
         "rim_temp": "",
-        "expected_track_t": "",
         "FL": "",
         "FR": "",
         "RL": "",
         "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#07-D04-24",
@@ -318,12 +331,13 @@
         "end": "09:54:16",
         "tyre_set": "#07-D04-24",
         "in_the_oven": "",
+        "mounted": "",
         "rim_temp": "",
-        "expected_track_t": "",
         "FL": "",
         "FR": "",
         "RL": "",
         "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#07-D04-24",

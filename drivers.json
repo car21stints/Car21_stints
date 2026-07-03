@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T18:04:48.362804+00:00",
+  "updated_at": "2026-07-03T18:07:00.405665+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260704_DTM04_Norisring\\260705_DTM04_Norisring.xlsm",
   "sheet_name": "24h stints",
   "config": {
@@ -174,7 +174,7 @@
         "stint": "Q1-2",
         "driver": "2026-07-04 00:00:00",
         "start": "10:07:45",
-        "end": "10:19:16",
+        "end": "10:20:56",
         "ready": ""
       }
     },
@@ -282,7 +282,7 @@
       "stint": 9,
       "driver": "2026-07-04 00:00:00",
       "start": "10:07:45",
-      "end": "10:19:16",
+      "end": "10:20:56",
       "ready": "",
       "event_date": "2026-07-04",
       "event_dt": "2026-07-04T10:07:45"

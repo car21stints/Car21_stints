@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T13:44:36.263509+00:00",
+  "updated_at": "2026-07-03T13:46:50.804660+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260704_DTM04_Norisring\\260705_DTM04_Norisring.xlsm",
   "sheet_name": "24h stints",
   "config": {
@@ -238,7 +238,7 @@
         "RL": "0.99",
         "RR": "0.99",
         "expected_track_t": "30",
-        "bleed": ""
+        "bleed": "-0.05"
       },
       "tyre_set": "#07-D03-19",
       "oven_time": "",
@@ -263,7 +263,7 @@
         "RL": "0.99",
         "RR": "0.99",
         "expected_track_t": "30",
-        "bleed": ""
+        "bleed": "-0.05"
       },
       "tyre_set": "#07-D04-23",
       "oven_time": "",

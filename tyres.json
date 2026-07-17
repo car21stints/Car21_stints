@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T08:20:22.593546+00:00",
+  "updated_at": "2026-07-17T08:49:57.166455+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260719_S05_Misano\\260719_GTWC_S05_Misano.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -272,15 +272,15 @@
     {
       "excel_row": 10,
       "event_date": "2026-07-17",
-      "event_time": "15:50:00",
-      "event_dt": "2026-07-17T15:50:00",
+      "event_time": "15:55:00",
+      "event_dt": "2026-07-17T15:55:00",
       "cells": {
         "stint_session": "FP1-5",
         "date": "2026-07-17",
-        "start": "15:50:00",
+        "start": "15:55:00",
         "end": "",
         "tyre_set": "#21-S02-12",
-        "in_the_oven": "14:20:00",
+        "in_the_oven": "14:25:00",
         "mounted": "",
         "rim_temp": "30.5",
         "FL": "0.96",
@@ -291,8 +291,8 @@
         "bleed": ""
       },
       "tyre_set": "#21-S02-12",
-      "oven_time": "14:20:00",
-      "oven_dt": "2026-07-17T14:20:00"
+      "oven_time": "14:25:00",
+      "oven_dt": "2026-07-17T14:25:00"
     },
     {
       "excel_row": 11,

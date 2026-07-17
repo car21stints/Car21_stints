@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T18:05:52.210951+00:00",
+  "updated_at": "2026-07-17T18:07:02.050187+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260719_S05_Misano\\260719_GTWC_S05_Misano.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -338,7 +338,7 @@
         "RL": "0.96",
         "RR": "1.04",
         "expected_track_t": "30",
-        "bleed": ""
+        "bleed": "-0.03"
       },
       "tyre_set": "#21-S02-12",
       "oven_time": "18:40:00",
@@ -363,7 +363,7 @@
         "RL": "0.96",
         "RR": "1.04",
         "expected_track_t": "30",
-        "bleed": ""
+        "bleed": "00:00:00"
       },
       "tyre_set": "#21-S05-23",
       "oven_time": "19:00:00",

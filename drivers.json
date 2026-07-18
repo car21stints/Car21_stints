@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T21:22:04.164004+00:00",
+  "updated_at": "2026-07-18T21:23:37.389162+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260719_S05_Misano\\260719_GTWC_S05_Misano.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -223,7 +223,7 @@
       "event_time": "13:20:00",
       "event_dt": "2026-07-18T13:20:00",
       "cells": {
-        "stint": "Q1-1",
+        "stint": "Q1-1,2",
         "driver": "2026-07-18 00:00:00",
         "start": "13:20:00",
         "end": "",

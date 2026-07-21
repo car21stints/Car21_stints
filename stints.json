@@ -1,259 +1,151 @@
 {
-  "updated_at": "2026-07-20T08:32:34.456914+00:00",
-  "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260719_S05_Misano\\260719_GTWC_S05_Misano.xlsm",
+  "updated_at": "2026-07-21T09:06:29.475098+00:00",
+  "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260726_DTM05_Oschersleben\\260726_DTM05_Oschersleben_v2.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
     {
       "stint": 1,
-      "driver": "2026-07-16 00:00:00",
-      "start": "13:00:00",
+      "driver": "2026-07-24 00:00:00",
+      "start": "11:00:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-16",
-      "event_dt": "2026-07-16T13:00:00"
+      "event_date": "2026-07-24",
+      "event_dt": "2026-07-24T11:00:00"
     },
     {
       "stint": 2,
-      "driver": "2026-07-16 00:00:00",
-      "start": "14:10:00",
+      "driver": "2026-07-24 00:00:00",
+      "start": "11:30:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-16",
-      "event_dt": "2026-07-16T14:10:00"
+      "event_date": "2026-07-24",
+      "event_dt": "2026-07-24T11:30:00"
     },
     {
       "stint": 3,
-      "driver": "2026-07-16 00:00:00",
+      "driver": "2026-07-24 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-16",
+      "event_date": "2026-07-24",
       "event_dt": ""
     },
     {
       "stint": 4,
-      "driver": "2026-07-16 00:00:00",
+      "driver": "2026-07-24 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-16",
+      "event_date": "2026-07-24",
       "event_dt": ""
     },
     {
       "stint": 5,
-      "driver": "2026-07-17 00:00:00",
-      "start": "14:50:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-17",
-      "event_dt": "2026-07-17T14:50:00"
-    },
-    {
-      "stint": 6,
-      "driver": "2026-07-17 00:00:00",
+      "driver": "2026-07-24 00:00:00",
       "start": "15:35:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-17",
-      "event_dt": "2026-07-17T15:35:00"
+      "event_date": "2026-07-24",
+      "event_dt": "2026-07-24T15:35:00"
+    },
+    {
+      "stint": 6,
+      "driver": "2026-07-24 00:00:00",
+      "start": "15:40:00",
+      "end": "",
+      "ready": "",
+      "event_date": "2026-07-24",
+      "event_dt": "2026-07-24T15:40:00"
     },
     {
       "stint": 7,
-      "driver": "2026-07-17 00:00:00",
+      "driver": "2026-07-24 00:00:00",
       "start": "15:55:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-17",
-      "event_dt": "2026-07-17T15:55:00"
+      "event_date": "2026-07-24",
+      "event_dt": "2026-07-24T15:55:00"
     },
     {
       "stint": 8,
-      "driver": "2026-07-17 00:00:00",
+      "driver": "2026-07-24 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-17",
+      "event_date": "2026-07-24",
       "event_dt": ""
     },
     {
       "stint": 9,
-      "driver": "2026-07-17 00:00:00",
-      "start": "20:10:00",
+      "driver": "2026-07-25 00:00:00",
+      "start": "09:45:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-17",
-      "event_dt": "2026-07-17T20:10:00"
+      "event_date": "2026-07-25",
+      "event_dt": "2026-07-25T09:45:00"
     },
     {
       "stint": 10,
-      "driver": "2026-07-17 00:00:00",
-      "start": "20:30:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-17",
-      "event_dt": "2026-07-17T20:30:00"
-    },
-    {
-      "stint": 11,
-      "driver": "2026-07-17 00:00:00",
+      "driver": "2026-07-25 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-17",
+      "event_date": "2026-07-25",
+      "event_dt": ""
+    },
+    {
+      "stint": 11,
+      "driver": "2026-07-25 00:00:00",
+      "start": "",
+      "end": "",
+      "ready": "",
+      "event_date": "2026-07-25",
       "event_dt": ""
     },
     {
       "stint": 12,
-      "driver": "2026-07-17 00:00:00",
+      "driver": "2026-07-25 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-17",
+      "event_date": "2026-07-25",
       "event_dt": ""
     },
     {
       "stint": 13,
-      "driver": "2026-07-18 00:00:00",
-      "start": "13:20:00",
+      "driver": "2026-07-26 00:00:00",
+      "start": "09:25:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-18",
-      "event_dt": "2026-07-18T13:20:00"
+      "event_date": "2026-07-26",
+      "event_dt": "2026-07-26T09:25:00"
     },
     {
       "stint": 14,
-      "driver": "2026-07-18 00:00:00",
+      "driver": "2026-07-26 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-18",
+      "event_date": "2026-07-26",
       "event_dt": ""
     },
     {
       "stint": 15,
-      "driver": "2026-07-18 00:00:00",
+      "driver": "2026-07-26 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-18",
+      "event_date": "2026-07-26",
       "event_dt": ""
     },
     {
       "stint": 16,
-      "driver": "2026-07-18 00:00:00",
+      "driver": "2026-07-26 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-07-18",
+      "event_date": "2026-07-26",
       "event_dt": ""
-    },
-    {
-      "stint": 17,
-      "driver": "2026-07-18 00:00:00",
-      "start": "20:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-18",
-      "event_dt": "2026-07-18T20:00:00"
-    },
-    {
-      "stint": 18,
-      "driver": "2026-07-18 00:00:00",
-      "start": "21:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-18",
-      "event_dt": "2026-07-18T21:00:00"
-    },
-    {
-      "stint": 19,
-      "driver": "2026-07-18 00:00:00",
-      "start": "",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-18",
-      "event_dt": ""
-    },
-    {
-      "stint": 20,
-      "driver": "2026-07-18 00:00:00",
-      "start": "",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-18",
-      "event_dt": ""
-    },
-    {
-      "stint": 21,
-      "driver": "2026-07-19 00:00:00",
-      "start": "10:05:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-19",
-      "event_dt": "2026-07-19T10:05:00"
-    },
-    {
-      "stint": 22,
-      "driver": "2026-07-19 00:00:00",
-      "start": "",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-19",
-      "event_dt": ""
-    },
-    {
-      "stint": 23,
-      "driver": "2026-07-19 00:00:00",
-      "start": "",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-19",
-      "event_dt": ""
-    },
-    {
-      "stint": 24,
-      "driver": "2026-07-19 00:00:00",
-      "start": "",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-19",
-      "event_dt": ""
-    },
-    {
-      "stint": 25,
-      "driver": "2026-07-19 00:00:00",
-      "start": "14:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-19",
-      "event_dt": "2026-07-19T14:00:00"
-    },
-    {
-      "stint": 26,
-      "driver": "2026-07-19 00:00:00",
-      "start": "15:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-19",
-      "event_dt": "2026-07-19T15:00:00"
-    },
-    {
-      "stint": 27,
-      "driver": "2026-07-19 00:00:00",
-      "start": "00:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-20",
-      "event_dt": "2026-07-20T00:00:00"
-    },
-    {
-      "stint": 28,
-      "driver": "2026-07-19 00:00:00",
-      "start": "00:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-07-20",
-      "event_dt": "2026-07-20T00:00:00"
     }
   ]
 }

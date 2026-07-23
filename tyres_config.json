@@ -27,6 +27,6 @@
     { "title": "Bleed", "excel_col": "O", "key": "bleed" }
   ],
   "row_filter": {
-    "skip_if_all_empty_excel_col": [ ]
+    "skip_if_all_empty_excel_col": ["A"]
   }
 }

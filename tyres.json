@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:43:25.869140+00:00",
+  "updated_at": "2026-07-24T07:44:03.052279+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260726_DTM05_Oschersleben\\260726_DTM05_Oschersleben_v2.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -105,11 +105,11 @@
         "start": "11:00:00",
         "tyre_set": "#07-D04-23",
         "mounted": "y",
-        "rim_temp": "20",
-        "FL": "1.12",
-        "FR": "1.16",
-        "RL": "1.05",
-        "RR": "1.10",
+        "rim_temp": "17",
+        "FL": "1.10",
+        "FR": "1.14",
+        "RL": "1.03",
+        "RR": "1.08",
         "expected_track_t": "20",
         "bleed": ""
       },

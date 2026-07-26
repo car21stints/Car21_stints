@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T08:45:10.981265+00:00",
+  "updated_at": "2026-07-26T08:45:51.656062+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260726_DTM05_Oschersleben\\260726_DTM05_Oschersleben_v2.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -233,12 +233,12 @@
     {
       "excel_row": 21,
       "event_date": "2026-07-26",
-      "event_time": "",
-      "event_dt": "",
+      "event_time": "13:55:00",
+      "event_dt": "2026-07-26T13:55:00",
       "cells": {
         "stint": "R2-1",
         "driver": "2026-07-26 00:00:00",
-        "start": "",
+        "start": "13:55:00",
         "end": "",
         "ready": ""
       }
@@ -259,12 +259,12 @@
     {
       "excel_row": 23,
       "event_date": "2026-07-26",
-      "event_time": "",
-      "event_dt": "",
+      "event_time": "13:30:00",
+      "event_dt": "2026-07-26T13:30:00",
       "cells": {
         "stint": "R2-3",
         "driver": "2026-07-26 00:00:00",
-        "start": "",
+        "start": "13:30:00",
         "end": "",
         "ready": ""
       }
@@ -391,11 +391,11 @@
     {
       "stint": 14,
       "driver": "2026-07-26 00:00:00",
-      "start": "",
+      "start": "13:55:00",
       "end": "",
       "ready": "",
       "event_date": "2026-07-26",
-      "event_dt": ""
+      "event_dt": "2026-07-26T13:55:00"
     },
     {
       "stint": 15,
@@ -409,11 +409,11 @@
     {
       "stint": 16,
       "driver": "2026-07-26 00:00:00",
-      "start": "",
+      "start": "13:30:00",
       "end": "",
       "ready": "",
       "event_date": "2026-07-26",
-      "event_dt": ""
+      "event_dt": "2026-07-26T13:30:00"
     }
   ]
 }

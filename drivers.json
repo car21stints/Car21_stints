@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:09:29.650035+00:00",
+  "updated_at": "2026-07-31T11:10:09.309036+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260803_S06_MC\\260803_S06_MC.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -116,12 +116,12 @@
     {
       "excel_row": 8,
       "event_date": "2026-07-31",
-      "event_time": "13:30:00",
-      "event_dt": "2026-07-31T13:30:00",
+      "event_time": "#VALUE!",
+      "event_dt": "",
       "cells": {
-        "stint": "FP1-1,2,3",
+        "stint": "FP1-",
         "driver": "2026-07-31 00:00:00",
-        "start": "13:30:00",
+        "start": "#VALUE!",
         "end": "",
         "ready": ""
       }
@@ -132,7 +132,7 @@
       "event_time": "14:15:00",
       "event_dt": "2026-07-31T14:15:00",
       "cells": {
-        "stint": "FP1-4,5",
+        "stint": "FP1-",
         "driver": "2026-07-31 00:00:00",
         "start": "14:15:00",
         "end": "",
@@ -466,11 +466,11 @@
     {
       "stint": 5,
       "driver": "2026-07-31 00:00:00",
-      "start": "13:30:00",
+      "start": "#VALUE!",
       "end": "",
       "ready": "",
       "event_date": "2026-07-31",
-      "event_dt": "2026-07-31T13:30:00"
+      "event_dt": ""
     },
     {
       "stint": 6,

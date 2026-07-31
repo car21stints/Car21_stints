@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:09:29.650035+00:00",
+  "updated_at": "2026-07-31T11:10:09.309036+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260803_S06_MC\\260803_S06_MC.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -209,15 +209,15 @@
     {
       "excel_row": 8,
       "event_date": "2026-07-31",
-      "event_time": "13:30:00",
-      "event_dt": "2026-07-31T13:30:00",
+      "event_time": "#VALUE!",
+      "event_dt": "",
       "cells": {
-        "stint_session": "FP1-1,2,3",
+        "stint_session": "FP1-",
         "date": "2026-07-31",
-        "start": "13:30:00",
+        "start": "#VALUE!",
         "end": "",
         "tyre_set": "#21-S05-26",
-        "in_the_oven": "12:00:00",
+        "in_the_oven": "",
         "mounted": "",
         "rim_temp": "34",
         "FL": "1.05",
@@ -228,8 +228,8 @@
         "bleed": ""
       },
       "tyre_set": "#21-S05-26",
-      "oven_time": "12:00:00",
-      "oven_dt": "2026-07-31T12:00:00"
+      "oven_time": "",
+      "oven_dt": ""
     },
     {
       "excel_row": 9,
@@ -237,7 +237,7 @@
       "event_time": "14:15:00",
       "event_dt": "2026-07-31T14:15:00",
       "cells": {
-        "stint_session": "FP1-4,5",
+        "stint_session": "FP1-",
         "date": "2026-07-31",
         "start": "14:15:00",
         "end": "",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:18:26.610677+00:00",
+  "updated_at": "2026-08-01T22:19:09.855799+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260803_S06_MC\\260803_S06_MC.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -724,7 +724,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "40",
+        "expected_track_t": "35",
         "bleed": ""
       },
       "tyre_set": "#21-S06-31",
@@ -749,7 +749,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "40",
+        "expected_track_t": "35",
         "bleed": ""
       },
       "tyre_set": "#21-S06-32",

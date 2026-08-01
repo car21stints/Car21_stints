@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T21:32:46.184680+00:00",
+  "updated_at": "2026-08-01T21:33:28.408617+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260803_S06_MC\\260803_S06_MC.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -620,9 +620,9 @@
         "in_the_oven": "09:20:00",
         "mounted": "y",
         "rim_temp": "26.5",
-        "FL": "1.01",
-        "FR": "1.05",
-        "RL": "0.96",
+        "FL": "1.00",
+        "FR": "1.04",
+        "RL": "0.97",
         "RR": "0.99",
         "expected_track_t": "30",
         "bleed": ""
@@ -645,9 +645,9 @@
         "in_the_oven": "",
         "mounted": "",
         "rim_temp": "26.7",
-        "FL": "1.02",
-        "FR": "1.05",
-        "RL": "0.96",
+        "FL": "1.01",
+        "FR": "1.04",
+        "RL": "0.98",
         "RR": "1.00",
         "expected_track_t": "30",
         "bleed": ""

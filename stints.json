@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T11:41:07.673344+00:00",
+  "updated_at": "2026-08-02T11:41:48.617333+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260803_S06_MC\\260803_S06_MC.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
@@ -231,11 +231,11 @@
     {
       "stint": 26,
       "driver": "2026-08-02 00:00:00",
-      "start": "15:00:00",
+      "start": "16:00:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-02",
-      "event_dt": "2026-08-02T15:00:00"
+      "event_dt": "2026-08-02T16:00:00"
     },
     {
       "stint": 27,

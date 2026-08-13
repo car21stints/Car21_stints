@@ -1,4 +1,4 @@
-{
+ {
   "page_title": "Car21 Tyre Preparation",
   "oven_window_minutes": 5,
   "logic": {
@@ -12,12 +12,11 @@
   "left_block": [
     { "title": "Stint / Session", "excel_col": "A", "key": "stint_session" },
     { "title": "Date", "excel_col": "B", "key": "date", "format": "date" },
-    { "title": "Start", "excel_col": "C", "key": "start", "format": "time" },
-    { "title": "End", "excel_col": "D", "key": "end", "format": "time" }
+    { "title": "In the car", "excel_col": "C", "key": "start", "format": "time" }
+
   ],
   "right_block": [
     { "title": "Tyre set", "excel_col": "F", "key": "tyre_set" },
-    { "title": "In the oven", "excel_col": "G", "key": "in_the_oven", "format": "time" },
     { "title": "Mounted", "excel_col": "H", "key": "mounted" },
     { "title": "Rim temp", "excel_col": "I", "key": "rim_temp" },
     { "title": "FL", "excel_col": "J", "key": "FL", "format": "number", "decimals": 2 },

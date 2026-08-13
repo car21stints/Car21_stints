@@ -102,7 +102,7 @@
   },
   "tyre_list": {
     "sheet_name": "Intro",
-    "start_cell": "A15",
+    "start_cell": "H15",
     "column_count": 4,
     "max_rows": 120,
     "empty_rows_to_stop": 3

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:15:44.353512+00:00",
+  "updated_at": "2026-08-13T12:16:33.435826+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -11,7 +11,8 @@
       "tyre_set_col": "F",
       "oven_time_col": "G",
       "carry_forward_date": true,
-      "rollover_midnight": true
+      "rollover_midnight": true,
+      "show_oven": true
     },
     "left_block": [
       {

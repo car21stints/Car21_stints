@@ -7,7 +7,8 @@
     "tyre_set_col": "F",
     "oven_time_col": "G",
     "carry_forward_date": true,
-    "rollover_midnight": true
+    "rollover_midnight": true,
+    "show_oven": true
   },
   "left_block": [
     {

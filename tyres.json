@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:38:20.822666+00:00",
+  "updated_at": "2026-08-14T11:39:01.185421+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -217,15 +217,15 @@
     {
       "excel_row": 8,
       "event_date": "2026-08-14",
-      "event_time": "15:35:00",
-      "event_dt": "2026-08-14T15:35:00",
+      "event_time": "16:00:00",
+      "event_dt": "2026-08-14T16:00:00",
       "cells": {
         "stint_session": "FP2-1,5",
         "date": "2026-08-14",
-        "start": "15:35:00",
+        "start": "16:00:00",
         "end": "",
         "tyre_set": "#07-D05-27",
-        "in_the_oven": "14:05:00",
+        "in_the_oven": "14:30:00",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -236,21 +236,21 @@
         "bleed": ""
       },
       "tyre_set": "#07-D05-27",
-      "oven_time": "14:05:00",
-      "oven_dt": "2026-08-14T14:05:00"
+      "oven_time": "14:30:00",
+      "oven_dt": "2026-08-14T14:30:00"
     },
     {
       "excel_row": 9,
       "event_date": "2026-08-14",
-      "event_time": "15:40:00",
-      "event_dt": "2026-08-14T15:40:00",
+      "event_time": "16:05:00",
+      "event_dt": "2026-08-14T16:05:00",
       "cells": {
         "stint_session": "FP2-2",
         "date": "2026-08-14",
-        "start": "15:40:00",
+        "start": "16:05:00",
         "end": "",
         "tyre_set": "#07-D06-32",
-        "in_the_oven": "14:10:00",
+        "in_the_oven": "14:35:00",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -261,33 +261,33 @@
         "bleed": ""
       },
       "tyre_set": "#07-D06-32",
-      "oven_time": "14:10:00",
-      "oven_dt": "2026-08-14T14:10:00"
+      "oven_time": "14:35:00",
+      "oven_dt": "2026-08-14T14:35:00"
     },
     {
       "excel_row": 10,
       "event_date": "2026-08-14",
-      "event_time": "15:55:00",
-      "event_dt": "2026-08-14T15:55:00",
+      "event_time": "16:20:00",
+      "event_dt": "2026-08-14T16:20:00",
       "cells": {
         "stint_session": "FP2-3,4",
         "date": "2026-08-14",
-        "start": "15:55:00",
+        "start": "16:20:00",
         "end": "",
         "tyre_set": "#07-D06-33",
-        "in_the_oven": "14:25:00",
+        "in_the_oven": "14:50:00",
         "mounted": "",
         "rim_temp": "23",
-        "FL": "1.01",
-        "FR": "1.05",
-        "RL": "0.96",
-        "RR": "1.01",
-        "expected_track_t": "30",
+        "FL": "0.98",
+        "FR": "1.02",
+        "RL": "0.92",
+        "RR": "0.97",
+        "expected_track_t": "35",
         "bleed": ""
       },
       "tyre_set": "#07-D06-33",
-      "oven_time": "14:25:00",
-      "oven_dt": "2026-08-14T14:25:00"
+      "oven_time": "14:50:00",
+      "oven_dt": "2026-08-14T14:50:00"
     },
     {
       "excel_row": 11,
@@ -317,15 +317,15 @@
     {
       "excel_row": 14,
       "event_date": "2026-08-15",
-      "event_time": "09:45:00",
-      "event_dt": "2026-08-15T09:45:00",
+      "event_time": "09:55:00",
+      "event_dt": "2026-08-15T09:55:00",
       "cells": {
         "stint_session": "Q1-1,2",
         "date": "2026-08-15",
-        "start": "09:45:00",
+        "start": "09:55:00",
         "end": "",
         "tyre_set": "#07-D06-34",
-        "in_the_oven": "08:15:00",
+        "in_the_oven": "08:25:00",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -336,8 +336,8 @@
         "bleed": ""
       },
       "tyre_set": "#07-D06-34",
-      "oven_time": "08:15:00",
-      "oven_dt": "2026-08-15T08:15:00"
+      "oven_time": "08:25:00",
+      "oven_dt": "2026-08-15T08:25:00"
     },
     {
       "excel_row": 15,
@@ -417,15 +417,15 @@
     {
       "excel_row": 20,
       "event_date": "2026-08-16",
-      "event_time": "09:25:00",
-      "event_dt": "2026-08-16T09:25:00",
+      "event_time": "09:10:00",
+      "event_dt": "2026-08-16T09:10:00",
       "cells": {
         "stint_session": "Q2-1,2",
         "date": "2026-08-16",
-        "start": "09:25:00",
+        "start": "09:10:00",
         "end": "",
         "tyre_set": "#07-D05-30",
-        "in_the_oven": "07:55:00",
+        "in_the_oven": "07:40:00",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -436,8 +436,8 @@
         "bleed": ""
       },
       "tyre_set": "#07-D05-30",
-      "oven_time": "07:55:00",
-      "oven_dt": "2026-08-16T07:55:00"
+      "oven_time": "07:40:00",
+      "oven_dt": "2026-08-16T07:40:00"
     },
     {
       "excel_row": 21,

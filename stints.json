@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T08:51:48.759143+00:00",
+  "updated_at": "2026-08-14T08:52:28.549544+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
     {
       "stint": 1,
       "driver": "2026-08-14 00:00:00",
-      "start": "11:00:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-08-14",
-      "event_dt": "2026-08-14T11:00:00"
-    },
-    {
-      "stint": 2,
-      "driver": "2026-08-14 00:00:00",
       "start": "11:30:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-14",
       "event_dt": "2026-08-14T11:30:00"
+    },
+    {
+      "stint": 2,
+      "driver": "2026-08-14 00:00:00",
+      "start": "12:00:00",
+      "end": "",
+      "ready": "",
+      "event_date": "2026-08-14",
+      "event_dt": "2026-08-14T12:00:00"
     },
     {
       "stint": 3,

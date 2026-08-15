@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:34:46.606931+00:00",
+  "updated_at": "2026-08-15T09:35:28.889435+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -377,11 +377,11 @@
         "tyre_set": "#07-D06-35",
         "in_the_oven": "",
         "mounted": "",
-        "rim_temp": "",
-        "FL": "",
-        "FR": "",
-        "RL": "",
-        "RR": "",
+        "rim_temp": "32.5",
+        "FL": "1.02",
+        "FR": "1.07",
+        "RL": "0.96",
+        "RR": "1.02",
         "expected_track_t": "30",
         "bleed": ""
       },
@@ -442,15 +442,15 @@
     {
       "excel_row": 21,
       "event_date": "2026-08-16",
-      "event_time": "13:55:00",
-      "event_dt": "2026-08-16T13:55:00",
+      "event_time": "13:45:00",
+      "event_dt": "2026-08-16T13:45:00",
       "cells": {
         "stint_session": "R2-1",
         "date": "2026-08-16",
-        "start": "13:55:00",
+        "start": "13:45:00",
         "end": "",
         "tyre_set": "#07-D05-29",
-        "in_the_oven": "12:25:00",
+        "in_the_oven": "12:15:00",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -461,8 +461,8 @@
         "bleed": ""
       },
       "tyre_set": "#07-D05-29",
-      "oven_time": "12:25:00",
-      "oven_dt": "2026-08-16T12:25:00"
+      "oven_time": "12:15:00",
+      "oven_dt": "2026-08-16T12:15:00"
     },
     {
       "excel_row": 22,

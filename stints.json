@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:34:46.606931+00:00",
+  "updated_at": "2026-08-15T09:35:28.889435+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
@@ -123,11 +123,11 @@
     {
       "stint": 14,
       "driver": "2026-08-16 00:00:00",
-      "start": "13:55:00",
+      "start": "13:45:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-16",
-      "event_dt": "2026-08-16T13:55:00"
+      "event_dt": "2026-08-16T13:45:00"
     },
     {
       "stint": 15,

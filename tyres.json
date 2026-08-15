@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T08:57:34.853894+00:00",
+  "updated_at": "2026-08-15T08:58:21.079225+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -349,7 +349,7 @@
         "date": "2026-08-15",
         "start": "",
         "end": "",
-        "tyre_set": "00:00:00",
+        "tyre_set": "#07-D06-34",
         "in_the_oven": "",
         "mounted": "",
         "rim_temp": "",
@@ -357,10 +357,10 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "30",
         "bleed": ""
       },
-      "tyre_set": "00:00:00",
+      "tyre_set": "#07-D06-34",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -374,7 +374,7 @@
         "date": "2026-08-15",
         "start": "",
         "end": "",
-        "tyre_set": "00:00:00",
+        "tyre_set": "#07-D06-35",
         "in_the_oven": "",
         "mounted": "",
         "rim_temp": "",
@@ -382,10 +382,10 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "30",
         "bleed": ""
       },
-      "tyre_set": "00:00:00",
+      "tyre_set": "#07-D06-35",
       "oven_time": "",
       "oven_dt": ""
     },

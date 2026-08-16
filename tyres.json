@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:32:31.997743+00:00",
+  "updated_at": "2026-08-16T12:33:12.317819+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260816_DTM06_NBR\\260816_DTM06_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -483,7 +483,7 @@
         "RL": "0.91",
         "RR": "0.96",
         "expected_track_t": "30",
-        "bleed": ""
+        "bleed": "-0.048"
       },
       "tyre_set": "#07-D06-34",
       "oven_time": "",
@@ -508,7 +508,7 @@
         "RL": "0.91",
         "RR": "0.96",
         "expected_track_t": "30",
-        "bleed": ""
+        "bleed": "-0.052000000000000005"
       },
       "tyre_set": "#07-D06-35",
       "oven_time": "",

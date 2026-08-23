@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:26:42.523345+00:00",
+  "updated_at": "2026-08-23T20:27:28.344770+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -295,7 +295,7 @@
       "event_time": "16:00:00",
       "event_dt": "2026-08-23T16:00:00",
       "cells": {
-        "stint_session": "PM1-8,9",
+        "stint_session": "PM1-8,9,",
         "date": "2026-08-23",
         "start": "16:00:00",
         "end": "",

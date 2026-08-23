@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:35:15.608177+00:00",
+  "updated_at": "2026-08-23T07:35:54.025999+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -155,7 +155,7 @@
         "rim_temp": "19.4",
         "FL": "1.17",
         "FR": "1.08",
-        "RL": "1.11",
+        "RL": "1.09",
         "RR": "1.04",
         "expected_track_t": "15",
         "bleed": ""

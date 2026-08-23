@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T06:55:45.278459+00:00",
+  "updated_at": "2026-08-23T06:56:23.524024+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -133,7 +133,7 @@
         "RL": "1.02",
         "RR": "0.95",
         "expected_track_t": "15",
-        "bleed": ""
+        "bleed": "-0.016"
       },
       "tyre_set": "#07-D05-27",
       "oven_time": "07:30:00",

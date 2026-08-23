@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:14:52.387787+00:00",
+  "updated_at": "2026-08-23T15:15:47.521763+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -270,7 +270,7 @@
       "event_time": "14:40:00",
       "event_dt": "2026-08-23T14:40:00",
       "cells": {
-        "stint_session": "PM1-3,4,5,6",
+        "stint_session": "PM1-3,4,5,6,7",
         "date": "2026-08-23",
         "start": "14:40:00",
         "end": "",
@@ -295,7 +295,7 @@
       "event_time": "16:00:00",
       "event_dt": "2026-08-23T16:00:00",
       "cells": {
-        "stint_session": "PM1-",
+        "stint_session": "PM1-8,9",
         "date": "2026-08-23",
         "start": "16:00:00",
         "end": "",
@@ -308,7 +308,7 @@
         "RL": "1.09",
         "RR": "1.02",
         "expected_track_t": "25",
-        "bleed": ""
+        "bleed": "-0.016"
       },
       "tyre_set": "#07-T05-40",
       "oven_time": "14:30:00",

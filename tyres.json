@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T13:52:16.859793+00:00",
+  "updated_at": "2026-08-23T13:52:59.704139+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -302,12 +302,12 @@
         "tyre_set": "#07-T05-40",
         "in_the_oven": "14:30:00",
         "mounted": "",
-        "rim_temp": "",
-        "FL": "",
-        "FR": "",
-        "RL": "",
-        "RR": "",
-        "expected_track_t": "",
+        "rim_temp": "22.3",
+        "FL": "1.15",
+        "FR": "1.06",
+        "RL": "1.09",
+        "RR": "1.02",
+        "expected_track_t": "25",
         "bleed": ""
       },
       "tyre_set": "#07-T05-40",

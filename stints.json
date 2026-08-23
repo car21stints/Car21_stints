@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T11:26:28.349776+00:00",
+  "updated_at": "2026-08-23T11:27:08.116173+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
@@ -42,11 +42,11 @@
     {
       "stint": 5,
       "driver": "2026-08-23 00:00:00",
-      "start": "#VALUE!",
+      "start": "14:00:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-23",
-      "event_dt": ""
+      "event_dt": "2026-08-23T14:00:00"
     },
     {
       "stint": 6,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T11:18:03.546372+00:00",
+  "updated_at": "2026-08-23T11:18:42.118321+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260823_T05_Sachsering\\260823_T05_Sachsering.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -267,15 +267,15 @@
     {
       "excel_row": 10,
       "event_date": "2026-08-23",
-      "event_time": "14:15:00",
-      "event_dt": "2026-08-23T14:15:00",
+      "event_time": "14:40:00",
+      "event_dt": "2026-08-23T14:40:00",
       "cells": {
         "stint_session": "PM1-",
         "date": "2026-08-23",
-        "start": "14:15:00",
+        "start": "14:40:00",
         "end": "",
         "tyre_set": "#07-T05-39",
-        "in_the_oven": "12:45:00",
+        "in_the_oven": "13:10:00",
         "mounted": "",
         "rim_temp": "21",
         "FL": "1.14",
@@ -286,21 +286,21 @@
         "bleed": ""
       },
       "tyre_set": "#07-T05-39",
-      "oven_time": "12:45:00",
-      "oven_dt": "2026-08-23T12:45:00"
+      "oven_time": "13:10:00",
+      "oven_dt": "2026-08-23T13:10:00"
     },
     {
       "excel_row": 11,
       "event_date": "2026-08-23",
-      "event_time": "15:35:00",
-      "event_dt": "2026-08-23T15:35:00",
+      "event_time": "16:00:00",
+      "event_dt": "2026-08-23T16:00:00",
       "cells": {
         "stint_session": "PM1-",
         "date": "2026-08-23",
-        "start": "15:35:00",
+        "start": "16:00:00",
         "end": "",
         "tyre_set": "#07-T05-40",
-        "in_the_oven": "14:05:00",
+        "in_the_oven": "14:30:00",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -311,8 +311,8 @@
         "bleed": ""
       },
       "tyre_set": "#07-T05-40",
-      "oven_time": "14:05:00",
-      "oven_dt": "2026-08-23T14:05:00"
+      "oven_time": "14:30:00",
+      "oven_dt": "2026-08-23T14:30:00"
     },
     {
       "excel_row": 14,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:22:44.382730+00:00",
+  "updated_at": "2026-08-26T16:23:26.438554+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260830_E07_NBR\\260830_E07_NBR.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
@@ -159,20 +159,20 @@
     {
       "stint": 18,
       "driver": "2026-08-30 00:00:00",
-      "start": "",
+      "start": "15:55:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-30",
-      "event_dt": ""
+      "event_dt": "2026-08-30T15:55:00"
     },
     {
       "stint": 19,
       "driver": "2026-08-30 00:00:00",
-      "start": "",
+      "start": "17:00:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-30",
-      "event_dt": ""
+      "event_dt": "2026-08-30T17:00:00"
     },
     {
       "stint": 20,

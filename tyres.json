@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:24:08.069588+00:00",
+  "updated_at": "2026-08-26T16:24:50.143756+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260830_E07_NBR\\260830_E07_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -232,7 +232,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "20",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-E04-15",
@@ -257,7 +257,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "20",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-E04-16",
@@ -282,7 +282,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "20",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-E04-15",
@@ -333,7 +333,7 @@
         "RL": "",
         "RR": "",
         "expected_track_t": "",
-        "bleed": "#VALUE!"
+        "bleed": ""
       },
       "tyre_set": "#21-E04-15",
       "oven_time": "14:45:00",
@@ -358,7 +358,7 @@
         "RL": "",
         "RR": "",
         "expected_track_t": "",
-        "bleed": "#VALUE!"
+        "bleed": ""
       },
       "tyre_set": "#21-E07-33",
       "oven_time": "15:50:00",
@@ -433,7 +433,7 @@
         "RL": "",
         "RR": "",
         "expected_track_t": "",
-        "bleed": "#VALUE!"
+        "bleed": ""
       },
       "tyre_set": "#21-E07-34",
       "oven_time": "08:15:00",
@@ -532,7 +532,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "20",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-E07-34",
@@ -557,7 +557,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "20",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-E07-35",
@@ -582,7 +582,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "20",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-E07-36",
@@ -627,13 +627,13 @@
         "tyre_set": "#21-S06-31",
         "in_the_oven": "22:30:00",
         "mounted": "y",
-        "rim_temp": "26.5",
-        "FL": "1.00",
-        "FR": "1.04",
-        "RL": "0.97",
-        "RR": "0.99",
-        "expected_track_t": "30",
-        "bleed": "-0.036000000000000004"
+        "rim_temp": "",
+        "FL": "",
+        "FR": "",
+        "RL": "",
+        "RR": "",
+        "expected_track_t": "",
+        "bleed": ""
       },
       "tyre_set": "#21-S06-31",
       "oven_time": "22:30:00",
@@ -652,12 +652,12 @@
         "tyre_set": "#21-S06-32",
         "in_the_oven": "",
         "mounted": "",
-        "rim_temp": "26.5",
-        "FL": "1.00",
-        "FR": "1.04",
-        "RL": "0.97",
-        "RR": "0.99",
-        "expected_track_t": "30",
+        "rim_temp": "",
+        "FL": "",
+        "FR": "",
+        "RL": "",
+        "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-S06-32",
@@ -727,13 +727,13 @@
         "tyre_set": "#21-S06-31",
         "in_the_oven": "",
         "mounted": "y",
-        "rim_temp": "29",
-        "FL": "0.98",
-        "FR": "1.00",
-        "RL": "0.91",
-        "RR": "0.94",
-        "expected_track_t": "35",
-        "bleed": "-0.078"
+        "rim_temp": "",
+        "FL": "",
+        "FR": "",
+        "RL": "",
+        "RR": "",
+        "expected_track_t": "",
+        "bleed": ""
       },
       "tyre_set": "#21-S06-31",
       "oven_time": "",
@@ -752,12 +752,12 @@
         "tyre_set": "#21-S06-32",
         "in_the_oven": "14:30:00",
         "mounted": "y",
-        "rim_temp": "29.3",
-        "FL": "0.99",
-        "FR": "1.01",
-        "RL": "0.89",
-        "RR": "0.92",
-        "expected_track_t": "35",
+        "rim_temp": "",
+        "FL": "",
+        "FR": "",
+        "RL": "",
+        "RR": "",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-S06-32",
@@ -782,7 +782,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "40",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "#21-S06-30",
@@ -807,7 +807,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "30",
+        "expected_track_t": "",
         "bleed": ""
       },
       "tyre_set": "00:00:00",

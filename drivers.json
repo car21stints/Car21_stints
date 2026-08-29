@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T06:58:07.531881+00:00",
+  "updated_at": "2026-08-29T06:58:49.692680+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260830_E07_NBR\\260830_E07_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -119,7 +119,7 @@
       "event_time": "10:50:00",
       "event_dt": "2026-08-29T10:50:00",
       "cells": {
-        "stint": "FP1-1",
+        "stint": "FP1-1,2,4,5,6",
         "driver": "2026-08-29 00:00:00",
         "start": "10:50:00",
         "end": "",
@@ -129,12 +129,12 @@
     {
       "excel_row": 9,
       "event_date": "2026-08-29",
-      "event_time": "11:05:00",
-      "event_dt": "2026-08-29T11:05:00",
+      "event_time": "11:20:00",
+      "event_dt": "2026-08-29T11:20:00",
       "cells": {
-        "stint": "FP1-2,3,4,5",
+        "stint": "FP1-3",
         "driver": "2026-08-29 00:00:00",
-        "start": "11:05:00",
+        "start": "11:20:00",
         "end": "",
         "ready": ""
       }
@@ -285,12 +285,12 @@
     {
       "excel_row": 27,
       "event_date": "2026-08-30",
-      "event_time": "15:55:00",
-      "event_dt": "2026-08-30T15:55:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint": "R1-2",
         "driver": "2026-08-30 00:00:00",
-        "start": "15:55:00",
+        "start": "",
         "end": "",
         "ready": ""
       }
@@ -298,12 +298,12 @@
     {
       "excel_row": 28,
       "event_date": "2026-08-30",
-      "event_time": "17:00:00",
-      "event_dt": "2026-08-30T17:00:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint": "R1-3",
         "driver": "2026-08-30 00:00:00",
-        "start": "17:00:00",
+        "start": "",
         "end": "",
         "ready": ""
       }
@@ -475,11 +475,11 @@
     {
       "stint": 6,
       "driver": "2026-08-29 00:00:00",
-      "start": "11:05:00",
+      "start": "11:20:00",
       "end": "",
       "ready": "",
       "event_date": "2026-08-29",
-      "event_dt": "2026-08-29T11:05:00"
+      "event_dt": "2026-08-29T11:20:00"
     },
     {
       "stint": 7,
@@ -583,20 +583,20 @@
     {
       "stint": 18,
       "driver": "2026-08-30 00:00:00",
-      "start": "15:55:00",
+      "start": "",
       "end": "",
       "ready": "",
       "event_date": "2026-08-30",
-      "event_dt": "2026-08-30T15:55:00"
+      "event_dt": ""
     },
     {
       "stint": 19,
       "driver": "2026-08-30 00:00:00",
-      "start": "17:00:00",
+      "start": "",
       "end": "",
       "ready": "",
       "event_date": "2026-08-30",
-      "event_dt": "2026-08-30T17:00:00"
+      "event_dt": ""
     },
     {
       "stint": 20,

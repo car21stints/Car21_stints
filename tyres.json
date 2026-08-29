@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:14:33.552937+00:00",
+  "updated_at": "2026-08-29T19:15:16.345098+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260830_E07_NBR\\260830_E07_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -432,7 +432,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "20",
         "bleed": ""
       },
       "tyre_set": "#21-E07-34",
@@ -457,7 +457,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "20",
         "bleed": ""
       },
       "tyre_set": "#21-E07-35",
@@ -482,7 +482,7 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "20",
         "bleed": ""
       },
       "tyre_set": "#21-E07-36",
@@ -527,11 +527,11 @@
         "tyre_set": "#21-E07-34",
         "in_the_oven": "13:00:00",
         "mounted": "y",
-        "rim_temp": "17",
-        "FL": "0.94",
-        "FR": "0.97",
-        "RL": "0.82",
-        "RR": "0.87",
+        "rim_temp": "18",
+        "FL": "0.95",
+        "FR": "0.98",
+        "RL": "0.83",
+        "RR": "0.88",
         "expected_track_t": "20",
         "bleed": ""
       },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:13:21.980201+00:00",
+  "updated_at": "2026-08-30T15:14:03.865475+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260830_E07_NBR\\260830_E07_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -583,7 +583,7 @@
         "RL": "0.86",
         "RR": "0.91",
         "expected_track_t": "15",
-        "bleed": ""
+        "bleed": "-0.07200000000000001"
       },
       "tyre_set": "#21-E07-36",
       "oven_time": "15:35:00",

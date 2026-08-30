@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T10:27:26.550257+00:00",
+  "updated_at": "2026-08-30T10:28:08.569098+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260830_E07_NBR\\260830_E07_NBR.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -567,15 +567,15 @@
     {
       "excel_row": 28,
       "event_date": "2026-08-30",
-      "event_time": "16:55:00",
-      "event_dt": "2026-08-30T16:55:00",
+      "event_time": "17:05:00",
+      "event_dt": "2026-08-30T17:05:00",
       "cells": {
         "stint_session": "R1-3",
         "date": "2026-08-30",
-        "start": "16:55:00",
+        "start": "17:05:00",
         "end": "",
         "tyre_set": "#21-E07-36",
-        "in_the_oven": "15:25:00",
+        "in_the_oven": "15:35:00",
         "mounted": "y",
         "rim_temp": "",
         "FL": "",
@@ -586,8 +586,8 @@
         "bleed": ""
       },
       "tyre_set": "#21-E07-36",
-      "oven_time": "15:25:00",
-      "oven_dt": "2026-08-30T15:25:00"
+      "oven_time": "15:35:00",
+      "oven_dt": "2026-08-30T15:35:00"
     },
     {
       "excel_row": 29,

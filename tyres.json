@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:29:22.786292+00:00",
+  "updated_at": "2026-09-11T17:30:08.101605+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260913_DTM07_Sachsenring\\260913_DTM07_Sachsenring.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -309,7 +309,7 @@
         "date": "2026-09-12",
         "start": "09:55:00",
         "end": "",
-        "tyre_set": "#07-D06-34",
+        "tyre_set": "#07-D07-43",
         "mounted": "",
         "rim_temp": "18.5",
         "FL": "1.16",
@@ -319,7 +319,7 @@
         "expected_track_t": "15",
         "bleed": ""
       },
-      "tyre_set": "#07-D06-34",
+      "tyre_set": "#07-D07-43",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -333,7 +333,7 @@
         "date": "2026-09-12",
         "start": "",
         "end": "",
-        "tyre_set": "#07-D06-34",
+        "tyre_set": "#07-D07-43",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -343,7 +343,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#07-D06-34",
+      "tyre_set": "#07-D07-43",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -357,7 +357,7 @@
         "date": "2026-09-12",
         "start": "",
         "end": "",
-        "tyre_set": "#07-D06-35",
+        "tyre_set": "#07-D07-44",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -367,7 +367,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#07-D06-35",
+      "tyre_set": "#07-D07-44",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -405,7 +405,7 @@
         "date": "2026-09-13",
         "start": "09:00:00",
         "end": "",
-        "tyre_set": "#07-D06-35",
+        "tyre_set": "#07-D07-45",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -415,7 +415,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#07-D06-35",
+      "tyre_set": "#07-D07-45",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -429,7 +429,7 @@
         "date": "2026-09-13",
         "start": "",
         "end": "",
-        "tyre_set": "#07-D06-34",
+        "tyre_set": "#07-D07-45",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -439,7 +439,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#07-D06-34",
+      "tyre_set": "#07-D07-45",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -453,7 +453,7 @@
         "date": "2026-09-13",
         "start": "",
         "end": "",
-        "tyre_set": "#07-D05-31",
+        "tyre_set": "#07-D07-46",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -463,21 +463,21 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#07-D05-31",
+      "tyre_set": "#07-D07-46",
       "oven_time": "",
       "oven_dt": ""
     },
     {
       "excel_row": 23,
       "event_date": "2026-09-13",
-      "event_time": "13:30:00",
-      "event_dt": "2026-09-13T13:30:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint_session": "R2-3",
         "date": "2026-09-13",
-        "start": "13:30:00",
+        "start": "",
         "end": "",
-        "tyre_set": "#07-D05-28",
+        "tyre_set": "#07-D07-44",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -487,7 +487,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#07-D05-28",
+      "tyre_set": "#07-D07-44",
       "oven_time": "",
       "oven_dt": ""
     }

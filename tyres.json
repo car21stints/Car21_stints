@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:13:27.037539+00:00",
+  "updated_at": "2026-09-12T10:14:08.248641+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260913_DTM07_Sachsenring\\260913_DTM07_Sachsenring.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -381,17 +381,17 @@
         "date": "2026-09-12",
         "start": "",
         "end": "",
-        "tyre_set": "00:00:00",
+        "tyre_set": "#07-D07-46",
         "mounted": "",
-        "rim_temp": "",
-        "FL": "",
-        "FR": "",
-        "RL": "",
-        "RR": "",
-        "expected_track_t": "",
+        "rim_temp": "21.5",
+        "FL": "1.10",
+        "FR": "0.12",
+        "RL": "1.03",
+        "RR": "0.96",
+        "expected_track_t": "15",
         "bleed": ""
       },
-      "tyre_set": "00:00:00",
+      "tyre_set": "#07-D07-46",
       "oven_time": "",
       "oven_dt": ""
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:24:17.888809+00:00",
+  "updated_at": "2026-09-12T10:25:02.402704+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\260913_DTM07_Sachsenring\\260913_DTM07_Sachsenring.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -337,7 +337,7 @@
         "mounted": "",
         "rim_temp": "24",
         "FL": "1.12",
-        "FR": "0.13",
+        "FR": "0.99",
         "RL": "1.07",
         "RR": "1.00",
         "expected_track_t": "15",
@@ -361,7 +361,7 @@
         "mounted": "",
         "rim_temp": "21.5",
         "FL": "1.10",
-        "FR": "0.12",
+        "FR": "0.97",
         "RL": "1.03",
         "RR": "0.96",
         "expected_track_t": "15",
@@ -385,7 +385,7 @@
         "mounted": "",
         "rim_temp": "21.5",
         "FL": "1.10",
-        "FR": "0.12",
+        "FR": "0.97",
         "RL": "1.03",
         "RR": "0.96",
         "expected_track_t": "15",

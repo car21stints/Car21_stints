@@ -5,9 +5,10 @@
     "date_col": "B",
     "time_col": "C",
     "tyre_set_col": "F",
+    "oven_time_col": "G",
     "carry_forward_date": true,
     "rollover_midnight": true,
-    "show_oven": false
+    "show_oven": true
   },
   "left_block": [
     {
@@ -39,6 +40,12 @@
       "title": "Tyre set",
       "excel_col": "F",
       "key": "tyre_set"
+    },
+    {
+      "title": "In the oven",
+      "excel_col": "G",
+      "key": "in_the_oven",
+      "format": "time"
     },
     {
       "title": "Mounted",

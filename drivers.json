@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:15:01.186967+00:00",
+  "updated_at": "2026-09-18T17:15:42.892872+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260920_S08_Zandvoort\\260920_S08_Zandvoort.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -233,12 +233,12 @@
     {
       "excel_row": 21,
       "event_date": "2026-09-19",
-      "event_time": "",
-      "event_dt": "",
+      "event_time": "15:10:00",
+      "event_dt": "2026-09-19T15:10:00",
       "cells": {
         "stint": "R1-2",
         "driver": "2026-09-19 00:00:00",
-        "start": "",
+        "start": "15:10:00",
         "end": "",
         "ready": ""
       }
@@ -547,11 +547,11 @@
     {
       "stint": 14,
       "driver": "2026-09-19 00:00:00",
-      "start": "",
+      "start": "15:10:00",
       "end": "",
       "ready": "",
       "event_date": "2026-09-19",
-      "event_dt": ""
+      "event_dt": "2026-09-19T15:10:00"
     },
     {
       "stint": 15,

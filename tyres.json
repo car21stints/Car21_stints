@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:09:57.874009+00:00",
+  "updated_at": "2026-09-18T16:10:41.280189+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260920_S08_Zandvoort\\260920_S08_Zandvoort.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -274,7 +274,7 @@
         "date": "2026-09-18",
         "start": "",
         "end": "",
-        "tyre_set": "#21-E04-15",
+        "tyre_set": "00:00:00",
         "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "",
@@ -285,7 +285,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E04-15",
+      "tyre_set": "00:00:00",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -324,7 +324,7 @@
         "date": "2026-09-19",
         "start": "15:10:00",
         "end": "",
-        "tyre_set": "#21-E04-16",
+        "tyre_set": "#21-S08-39",
         "in_the_oven": "13:40:00",
         "mounted": "y",
         "rim_temp": "",
@@ -335,7 +335,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E04-16",
+      "tyre_set": "#21-S08-39",
       "oven_time": "13:40:00",
       "oven_dt": "2026-09-19T13:40:00"
     },
@@ -349,7 +349,7 @@
         "date": "2026-09-19",
         "start": "",
         "end": "",
-        "tyre_set": "#21-E07-33",
+        "tyre_set": "#21-S08-40",
         "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "",
@@ -360,7 +360,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-33",
+      "tyre_set": "#21-S08-40",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -424,7 +424,7 @@
         "date": "2026-09-19",
         "start": "20:35:00",
         "end": "",
-        "tyre_set": "#21-E07-34",
+        "tyre_set": "#21-S08-39",
         "in_the_oven": "19:05:00",
         "mounted": "y",
         "rim_temp": "",
@@ -435,7 +435,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-34",
+      "tyre_set": "#21-S08-39",
       "oven_time": "19:05:00",
       "oven_dt": "2026-09-19T19:05:00"
     },
@@ -449,7 +449,7 @@
         "date": "2026-09-19",
         "start": "",
         "end": "",
-        "tyre_set": "#21-E07-35",
+        "tyre_set": "#21-S08-40",
         "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "",
@@ -460,7 +460,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-35",
+      "tyre_set": "#21-S08-40",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -474,7 +474,7 @@
         "date": "2026-09-19",
         "start": "",
         "end": "",
-        "tyre_set": "#21-E07-36",
+        "tyre_set": "#21-S08-42",
         "in_the_oven": "",
         "mounted": "",
         "rim_temp": "",
@@ -485,7 +485,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-36",
+      "tyre_set": "#21-S08-42",
       "oven_time": "",
       "oven_dt": ""
     },

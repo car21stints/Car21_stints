@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T09:42:23.076185+00:00",
+  "updated_at": "2026-09-18T09:43:07.348098+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260920_S08_Zandvoort\\260920_S08_Zandvoort.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -227,13 +227,13 @@
         "tyre_set": "#21-S06-28",
         "in_the_oven": "12:20:00",
         "mounted": "y",
-        "rim_temp": "",
-        "FL": "",
-        "FR": "",
-        "RL": "",
-        "RR": "",
+        "rim_temp": "21",
+        "FL": "0.97",
+        "FR": "1.04",
+        "RL": "0.93",
+        "RR": "0.98",
         "expected_track_t": "15",
-        "bleed": "-0.048"
+        "bleed": ""
       },
       "tyre_set": "#21-S06-28",
       "oven_time": "12:20:00",
@@ -252,13 +252,13 @@
         "tyre_set": "#21-S08-38",
         "in_the_oven": "12:35:00",
         "mounted": "y",
-        "rim_temp": "",
-        "FL": "",
-        "FR": "",
-        "RL": "",
-        "RR": "",
+        "rim_temp": "20",
+        "FL": "1.01",
+        "FR": "1.09",
+        "RL": "0.99",
+        "RR": "1.03",
         "expected_track_t": "15",
-        "bleed": "-0.06"
+        "bleed": ""
       },
       "tyre_set": "#21-S08-38",
       "oven_time": "12:35:00",

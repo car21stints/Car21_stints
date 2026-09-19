@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T06:09:47.623284+00:00",
+  "updated_at": "2026-09-19T06:10:27.839458+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260920_S08_Zandvoort\\260920_S08_Zandvoort.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -470,7 +470,7 @@
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "R1-3",
+        "stint_session": "R1-",
         "date": "2026-09-19",
         "start": "",
         "end": "",

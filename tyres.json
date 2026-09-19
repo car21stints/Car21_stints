@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:21:01.513212+00:00",
+  "updated_at": "2026-09-19T17:22:32.598275+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260920_S08_Zandvoort\\260920_S08_Zandvoort.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -458,7 +458,7 @@
         "RL": "0.89",
         "RR": "0.95",
         "expected_track_t": "15",
-        "bleed": ""
+        "bleed": "-0.0402"
       },
       "tyre_set": "#21-S08-40",
       "oven_time": "13:40:00",
@@ -524,7 +524,7 @@
         "date": "2026-09-20",
         "start": "10:35:00",
         "end": "",
-        "tyre_set": "#21-E07-35",
+        "tyre_set": "#21-S08-41",
         "in_the_oven": "09:05:00",
         "mounted": "y",
         "rim_temp": "",
@@ -532,10 +532,10 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "10",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-35",
+      "tyre_set": "#21-S08-41",
       "oven_time": "09:05:00",
       "oven_dt": "2026-09-20T09:05:00"
     },
@@ -549,7 +549,7 @@
         "date": "2026-09-20",
         "start": "",
         "end": "",
-        "tyre_set": "#21-E07-34",
+        "tyre_set": "#21-S08-42",
         "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "",
@@ -557,10 +557,10 @@
         "FR": "",
         "RL": "",
         "RR": "",
-        "expected_track_t": "",
+        "expected_track_t": "10",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-34",
+      "tyre_set": "#21-S08-42",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -570,11 +570,11 @@
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q2-3",
+        "stint_session": "Q2-",
         "date": "2026-09-20",
         "start": "",
         "end": "",
-        "tyre_set": "#21-E07-36",
+        "tyre_set": "00:00:00",
         "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "",
@@ -585,7 +585,7 @@
         "expected_track_t": "",
         "bleed": ""
       },
-      "tyre_set": "#21-E07-36",
+      "tyre_set": "00:00:00",
       "oven_time": "",
       "oven_dt": ""
     },

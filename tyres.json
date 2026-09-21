@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T08:32:14.896224+00:00",
+  "updated_at": "2026-09-21T08:33:03.956359+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\260920_S08_Zandvoort\\260920_S08_Zandvoort.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -658,7 +658,7 @@
         "RL": "0.87",
         "RR": "0.94",
         "expected_track_t": "15",
-        "bleed": ""
+        "bleed": "-0.054"
       },
       "tyre_set": "#21-S08-42",
       "oven_time": "13:10:00",

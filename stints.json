@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-10-01T12:15:56.849522+00:00",
+  "updated_at": "2026-10-01T12:16:40.548604+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
     {
       "stint": 1,
-      "driver": "2026-10-02 00:00:00",
+      "driver": "2026-10-01 00:00:00",
       "start": "13:30:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-02",
-      "event_dt": "2026-10-02T13:30:00"
+      "event_date": "2026-10-01",
+      "event_dt": "2026-10-01T13:30:00"
     },
     {
       "stint": 2,
-      "driver": "2026-10-02 00:00:00",
+      "driver": "2026-10-01 00:00:00",
       "start": "14:25:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-02",
-      "event_dt": "2026-10-02T14:25:00"
+      "event_date": "2026-10-01",
+      "event_dt": "2026-10-01T14:25:00"
     },
     {
       "stint": 3,
-      "driver": "2026-10-02 00:00:00",
+      "driver": "2026-10-01 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-02",
+      "event_date": "2026-10-01",
       "event_dt": ""
     },
     {
       "stint": 4,
-      "driver": "2026-10-02 00:00:00",
+      "driver": "2026-10-01 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-02",
+      "event_date": "2026-10-01",
       "event_dt": ""
     },
     {

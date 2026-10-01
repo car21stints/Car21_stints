@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:46:13.994841+00:00",
+  "updated_at": "2026-10-01T18:46:58.450123+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -242,15 +242,15 @@
     {
       "excel_row": 9,
       "event_date": "2026-10-02",
-      "event_time": "09:30:00",
-      "event_dt": "2026-10-02T09:30:00",
+      "event_time": "09:35:00",
+      "event_dt": "2026-10-02T09:35:00",
       "cells": {
         "stint_session": "FP1-3,4,5",
         "date": "2026-10-02",
-        "start": "09:30:00",
+        "start": "09:35:00",
         "end": "",
         "tyre_set": "#21-S08-40",
-        "in_the_oven": "08:00:00",
+        "in_the_oven": "08:05:00",
         "mounted": "y",
         "rim_temp": "27",
         "FL": "0.96",
@@ -261,8 +261,8 @@
         "bleed": ""
       },
       "tyre_set": "#21-S08-40",
-      "oven_time": "08:00:00",
-      "oven_dt": "2026-10-02T08:00:00"
+      "oven_time": "08:05:00",
+      "oven_dt": "2026-10-02T08:05:00"
     },
     {
       "excel_row": 10,

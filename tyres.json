@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:52:28.495753+00:00",
+  "updated_at": "2026-10-02T11:53:09.865320+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -316,12 +316,12 @@
     },
     {
       "excel_row": 14,
-      "event_date": "2026-10-03",
+      "event_date": "2026-10-02",
       "event_time": "13:55:00",
-      "event_dt": "2026-10-03T13:55:00",
+      "event_dt": "2026-10-02T13:55:00",
       "cells": {
         "stint_session": "FP2-1",
-        "date": "2026-10-03",
+        "date": "2026-10-02",
         "start": "13:55:00",
         "end": "",
         "tyre_set": "#21-S08-40",
@@ -337,16 +337,16 @@
       },
       "tyre_set": "#21-S08-40",
       "oven_time": "12:25:00",
-      "oven_dt": "2026-10-03T12:25:00"
+      "oven_dt": "2026-10-02T12:25:00"
     },
     {
       "excel_row": 15,
-      "event_date": "2026-10-03",
+      "event_date": "2026-10-02",
       "event_time": "14:00:00",
-      "event_dt": "2026-10-03T14:00:00",
+      "event_dt": "2026-10-02T14:00:00",
       "cells": {
         "stint_session": "FP2-2,3,4",
-        "date": "2026-10-03",
+        "date": "2026-10-02",
         "start": "14:00:00",
         "end": "",
         "tyre_set": "#21-S09-43",
@@ -362,16 +362,16 @@
       },
       "tyre_set": "#21-S09-43",
       "oven_time": "12:30:00",
-      "oven_dt": "2026-10-03T12:30:00"
+      "oven_dt": "2026-10-02T12:30:00"
     },
     {
       "excel_row": 16,
-      "event_date": "2026-10-03",
+      "event_date": "2026-10-02",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint_session": "FP2-",
-        "date": "2026-10-03",
+        "date": "2026-10-02",
         "start": "",
         "end": "",
         "tyre_set": "#21-S09-44",
@@ -391,12 +391,12 @@
     },
     {
       "excel_row": 17,
-      "event_date": "2026-10-03",
+      "event_date": "2026-10-02",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint_session": "FP2-",
-        "date": "2026-10-03",
+        "date": "2026-10-02",
         "start": "",
         "end": "",
         "tyre_set": "00:00:00",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:53:50.810616+00:00",
+  "updated_at": "2026-10-02T11:54:32.746927+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
@@ -78,11 +78,11 @@
     {
       "stint": 9,
       "driver": "2026-10-02 00:00:00",
-      "start": "13:55:00",
+      "start": "#VALUE!",
       "end": "",
       "ready": "",
       "event_date": "2026-10-02",
-      "event_dt": "2026-10-02T13:55:00"
+      "event_dt": ""
     },
     {
       "stint": 10,

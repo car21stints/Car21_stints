@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:21:59.592046+00:00",
+  "updated_at": "2026-10-02T10:22:41.012092+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -352,11 +352,11 @@
         "tyre_set": "#21-S09-43",
         "in_the_oven": "12:30:00",
         "mounted": "y",
-        "rim_temp": "22",
-        "FL": "0.99",
-        "FR": "1.06",
-        "RL": "0.93",
-        "RR": "1.00",
+        "rim_temp": "26",
+        "FL": "1.02",
+        "FR": "1.09",
+        "RL": "0.96",
+        "RR": "1.03",
         "expected_track_t": "15",
         "bleed": ""
       },

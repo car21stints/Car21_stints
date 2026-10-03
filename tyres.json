@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:38:50.740686+00:00",
+  "updated_at": "2026-10-03T11:53:23.478814+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -896,6 +896,24 @@
           "",
           "0",
           "S2"
+        ]
+      },
+      {
+        "excel_row": 26,
+        "values": [
+          "#21-W03",
+          "",
+          "0",
+          ""
+        ]
+      },
+      {
+        "excel_row": 27,
+        "values": [
+          "#07-DTM-W08",
+          "",
+          "0",
+          ""
         ]
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:44:16.523695+00:00",
+  "updated_at": "2026-10-04T12:45:01.326381+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261004_S09_Barcelona\\261004_S09_Barcelona.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -717,17 +717,17 @@
     {
       "excel_row": 38,
       "event_date": "2026-10-04",
-      "event_time": "15:30:00",
-      "event_dt": "2026-10-04T15:30:00",
+      "event_time": "17:50:00",
+      "event_dt": "2026-10-04T17:50:00",
       "cells": {
         "stint_session": "R2-1",
         "date": "2026-10-04",
-        "start": "15:30:00",
+        "start": "17:50:00",
         "end": "",
         "tyre_set": "#21-S09-46",
-        "in_the_oven": "14:00:00",
+        "in_the_oven": "16:20:00",
         "mounted": "y",
-        "rim_temp": "21",
+        "rim_temp": "22",
         "FL": "0.92",
         "FR": "1.04",
         "RL": "0.84",
@@ -736,23 +736,23 @@
         "bleed": ""
       },
       "tyre_set": "#21-S09-46",
-      "oven_time": "14:00:00",
-      "oven_dt": "2026-10-04T14:00:00"
+      "oven_time": "16:20:00",
+      "oven_dt": "2026-10-04T16:20:00"
     },
     {
       "excel_row": 39,
       "event_date": "2026-10-04",
-      "event_time": "16:00:00",
-      "event_dt": "2026-10-04T16:00:00",
+      "event_time": "18:50:00",
+      "event_dt": "2026-10-04T18:50:00",
       "cells": {
         "stint_session": "R2-2",
         "date": "2026-10-04",
-        "start": "16:00:00",
+        "start": "18:50:00",
         "end": "",
         "tyre_set": "#21-S09-47",
-        "in_the_oven": "14:30:00",
+        "in_the_oven": "17:20:00",
         "mounted": "y",
-        "rim_temp": "21",
+        "rim_temp": "22",
         "FL": "0.92",
         "FR": "1.04",
         "RL": "0.84",
@@ -761,8 +761,8 @@
         "bleed": ""
       },
       "tyre_set": "#21-S09-47",
-      "oven_time": "14:30:00",
-      "oven_dt": "2026-10-04T14:30:00"
+      "oven_time": "17:20:00",
+      "oven_dt": "2026-10-04T17:20:00"
     },
     {
       "excel_row": 40,

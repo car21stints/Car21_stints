@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:57:02.548322+00:00",
+  "updated_at": "2026-10-09T06:57:43.245206+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -497,9 +497,9 @@
     "start_cell": "H15",
     "header_row": 16,
     "headers": [
-      "#07-D07-42",
+      "#07-D07-46",
       "Column 2",
-      "25.697",
+      "4",
       "FP1"
     ],
     "rows": [

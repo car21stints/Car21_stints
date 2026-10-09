@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T17:08:03.090000+00:00",
+  "updated_at": "2026-10-09T17:08:46.918350+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "stints": [
@@ -87,20 +87,20 @@
     {
       "stint": 10,
       "driver": "2026-10-10 00:00:00",
-      "start": "09:55:00",
-      "end": "",
-      "ready": "",
-      "event_date": "2026-10-10",
-      "event_dt": "2026-10-10T09:55:00"
-    },
-    {
-      "stint": 11,
-      "driver": "2026-10-10 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
       "event_date": "2026-10-10",
       "event_dt": ""
+    },
+    {
+      "stint": 11,
+      "driver": "2026-10-10 00:00:00",
+      "start": "09:55:00",
+      "end": "",
+      "ready": "",
+      "event_date": "2026-10-10",
+      "event_dt": "2026-10-10T09:55:00"
     },
     {
       "stint": 12,

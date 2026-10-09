@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T14:15:14.528648+00:00",
+  "updated_at": "2026-10-09T14:16:19.581629+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -116,12 +116,12 @@
     {
       "excel_row": 8,
       "event_date": "2026-10-09",
-      "event_time": "15:30:00",
-      "event_dt": "2026-10-09T15:30:00",
+      "event_time": "#VALUE!",
+      "event_dt": "",
       "cells": {
-        "stint": "FP2-1",
+        "stint": "FP2-",
         "driver": "2026-10-09 00:00:00",
-        "start": "15:30:00",
+        "start": "#VALUE!",
         "end": "",
         "ready": ""
       }
@@ -132,7 +132,7 @@
       "event_time": "15:35:00",
       "event_dt": "2026-10-09T15:35:00",
       "cells": {
-        "stint": "FP2-2",
+        "stint": "FP2-",
         "driver": "2026-10-09 00:00:00",
         "start": "15:35:00",
         "end": "",
@@ -145,7 +145,7 @@
       "event_time": "15:50:00",
       "event_dt": "2026-10-09T15:50:00",
       "cells": {
-        "stint": "FP2-3,4",
+        "stint": "FP2-",
         "driver": "2026-10-09 00:00:00",
         "start": "15:50:00",
         "end": "",
@@ -310,11 +310,11 @@
     {
       "stint": 5,
       "driver": "2026-10-09 00:00:00",
-      "start": "15:30:00",
+      "start": "#VALUE!",
       "end": "",
       "ready": "",
       "event_date": "2026-10-09",
-      "event_dt": "2026-10-09T15:30:00"
+      "event_dt": ""
     },
     {
       "stint": 6,

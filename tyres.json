@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T07:00:40.679089+00:00",
+  "updated_at": "2026-10-09T07:01:23.039728+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -117,7 +117,7 @@
         "date": "2026-10-09",
         "start": "12:05:00",
         "end": "",
-        "tyre_set": "#07-D07-42",
+        "tyre_set": "#07-D07-46",
         "mounted": "",
         "rim_temp": "14.3",
         "FL": "0.96",
@@ -127,7 +127,7 @@
         "expected_track_t": "15",
         "bleed": ""
       },
-      "tyre_set": "#07-D07-42",
+      "tyre_set": "#07-D07-46",
       "oven_time": "",
       "oven_dt": ""
     },

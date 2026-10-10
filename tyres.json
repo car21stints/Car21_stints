@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T13:27:27.807806+00:00",
+  "updated_at": "2026-10-10T13:28:09.346756+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -405,31 +405,7 @@
         "date": "2026-10-11",
         "start": "09:30:00",
         "end": "",
-        "tyre_set": "#07-D08-51",
-        "mounted": "",
-        "rim_temp": "",
-        "FL": "",
-        "FR": "",
-        "RL": "",
-        "RR": "",
-        "expected_track_t": "",
-        "bleed": ""
-      },
-      "tyre_set": "#07-D08-51",
-      "oven_time": "",
-      "oven_dt": ""
-    },
-    {
-      "excel_row": 21,
-      "event_date": "2026-10-11",
-      "event_time": "",
-      "event_dt": "",
-      "cells": {
-        "stint_session": "R2-1",
-        "date": "2026-10-11",
-        "start": "",
-        "end": "",
-        "tyre_set": "#07-D08-51",
+        "tyre_set": "#07-D08-50",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -439,7 +415,31 @@
         "expected_track_t": "15",
         "bleed": ""
       },
-      "tyre_set": "#07-D08-51",
+      "tyre_set": "#07-D08-50",
+      "oven_time": "",
+      "oven_dt": ""
+    },
+    {
+      "excel_row": 21,
+      "event_date": "2026-10-11",
+      "event_time": "13:50:00",
+      "event_dt": "2026-10-11T13:50:00",
+      "cells": {
+        "stint_session": "R2-1",
+        "date": "2026-10-11",
+        "start": "13:50:00",
+        "end": "",
+        "tyre_set": "#07-D08-50",
+        "mounted": "",
+        "rim_temp": "",
+        "FL": "",
+        "FR": "",
+        "RL": "",
+        "RR": "",
+        "expected_track_t": "15",
+        "bleed": ""
+      },
+      "tyre_set": "#07-D08-50",
       "oven_time": "",
       "oven_dt": ""
     },
@@ -453,7 +453,7 @@
         "date": "2026-10-11",
         "start": "",
         "end": "",
-        "tyre_set": "#07-D08-52",
+        "tyre_set": "#07-D08-51",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -463,21 +463,21 @@
         "expected_track_t": "15",
         "bleed": ""
       },
-      "tyre_set": "#07-D08-52",
+      "tyre_set": "#07-D08-51",
       "oven_time": "",
       "oven_dt": ""
     },
     {
       "excel_row": 23,
       "event_date": "2026-10-11",
-      "event_time": "13:30:00",
-      "event_dt": "2026-10-11T13:30:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint_session": "R2-3",
         "date": "2026-10-11",
-        "start": "13:30:00",
+        "start": "",
         "end": "",
-        "tyre_set": "#07-D08-49",
+        "tyre_set": "#07-D08-48",
         "mounted": "",
         "rim_temp": "",
         "FL": "",
@@ -487,7 +487,7 @@
         "expected_track_t": "15",
         "bleed": ""
       },
-      "tyre_set": "#07-D08-49",
+      "tyre_set": "#07-D08-48",
       "oven_time": "",
       "oven_dt": ""
     }

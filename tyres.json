@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T16:41:08.082493+00:00",
+  "updated_at": "2026-10-10T16:41:49.984588+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -431,13 +431,13 @@
         "end": "",
         "tyre_set": "#07-D08-50",
         "mounted": "",
-        "rim_temp": "",
+        "rim_temp": "it's dangerous to annoy the engineer. Especially if italian",
         "FL": "",
         "FR": "",
         "RL": "",
         "RR": "",
         "expected_track_t": "15",
-        "bleed": "#VALUE!"
+        "bleed": ""
       },
       "tyre_set": "#07-D08-50",
       "oven_time": "",

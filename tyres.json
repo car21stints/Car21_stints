@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T07:53:04.998857+00:00",
+  "updated_at": "2026-10-10T07:53:48.675086+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -302,12 +302,12 @@
     {
       "excel_row": 14,
       "event_date": "2026-10-10",
-      "event_time": "09:35:00",
-      "event_dt": "2026-10-10T09:35:00",
+      "event_time": "#VALUE!",
+      "event_dt": "",
       "cells": {
-        "stint_session": "Q1-1,2",
+        "stint_session": "Q1-2",
         "date": "2026-10-10",
-        "start": "09:35:00",
+        "start": "#VALUE!",
         "end": "",
         "tyre_set": "#07-D08-48",
         "mounted": "",

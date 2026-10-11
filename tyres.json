@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T05:59:44.071312+00:00",
+  "updated_at": "2026-10-11T06:00:27.561838+00:00",
   "source_file": "C:\\_lavoro\\2026\\DTM\\Events\\261011_DTM08_Hockenheim\\261011_DTM08_Hockenheim.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -431,7 +431,7 @@
         "end": "",
         "tyre_set": "#07-D08-50",
         "mounted": "",
-        "rim_temp": "it's dangerous to annoy the engineer. Especially if italian",
+        "rim_temp": "",
         "FL": "",
         "FR": "",
         "RL": "",

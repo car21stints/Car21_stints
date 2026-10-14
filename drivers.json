@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:49:42.080022+00:00",
+  "updated_at": "2026-10-14T08:50:31.108783+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261017_E10_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -233,12 +233,12 @@
     {
       "excel_row": 21,
       "event_date": "2026-10-16",
-      "event_time": "18:35:00",
-      "event_dt": "2026-10-16T18:35:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint": "Q1-2",
         "driver": "2026-10-16 00:00:00",
-        "start": "18:35:00",
+        "start": "",
         "end": "",
         "ready": ""
       }
@@ -246,12 +246,12 @@
     {
       "excel_row": 22,
       "event_date": "2026-10-16",
-      "event_time": "18:45:00",
-      "event_dt": "2026-10-16T18:45:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint": "Q1-3",
         "driver": "2026-10-16 00:00:00",
-        "start": "18:45:00",
+        "start": "",
         "end": "",
         "ready": ""
       }
@@ -285,12 +285,12 @@
     {
       "excel_row": 27,
       "event_date": "2026-10-16",
-      "event_time": "19:20:00",
-      "event_dt": "2026-10-16T19:20:00",
+      "event_time": "",
+      "event_dt": "",
       "cells": {
         "stint": "Q2-2",
         "driver": "2026-10-16 00:00:00",
-        "start": "19:20:00",
+        "start": "",
         "end": "",
         "ready": ""
       }
@@ -547,20 +547,20 @@
     {
       "stint": 14,
       "driver": "2026-10-16 00:00:00",
-      "start": "18:35:00",
+      "start": "",
       "end": "",
       "ready": "",
       "event_date": "2026-10-16",
-      "event_dt": "2026-10-16T18:35:00"
+      "event_dt": ""
     },
     {
       "stint": 15,
       "driver": "2026-10-16 00:00:00",
-      "start": "18:45:00",
+      "start": "",
       "end": "",
       "ready": "",
       "event_date": "2026-10-16",
-      "event_dt": "2026-10-16T18:45:00"
+      "event_dt": ""
     },
     {
       "stint": 16,
@@ -583,11 +583,11 @@
     {
       "stint": 18,
       "driver": "2026-10-16 00:00:00",
-      "start": "19:20:00",
+      "start": "",
       "end": "",
       "ready": "",
       "event_date": "2026-10-16",
-      "event_dt": "2026-10-16T19:20:00"
+      "event_dt": ""
     },
     {
       "stint": 19,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:34:59.091876+00:00",
+  "updated_at": "2026-10-16T13:35:41.434228+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261017_E10_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -430,8 +430,8 @@
         "rim_temp": "27",
         "FL": "1.01",
         "FR": "1.08",
-        "RL": "0.96",
-        "RR": "1.03",
+        "RL": "0.95",
+        "RR": "1.02",
         "expected_track_t": "20",
         "bleed": ""
       },
@@ -453,10 +453,10 @@
         "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "27",
-        "FL": "0.94",
-        "FR": "1.06",
-        "RL": "0.85",
-        "RR": "0.94",
+        "FL": "1.01",
+        "FR": "1.08",
+        "RL": "0.95",
+        "RR": "1.02",
         "expected_track_t": "20",
         "bleed": ""
       },
@@ -480,8 +480,8 @@
         "rim_temp": "27",
         "FL": "1.01",
         "FR": "1.08",
-        "RL": "0.96",
-        "RR": "1.03",
+        "RL": "0.95",
+        "RR": "1.02",
         "expected_track_t": "20",
         "bleed": ""
       },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:37:07.935788+00:00",
+  "updated_at": "2026-10-16T13:37:50.007752+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261017_E10_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -236,7 +236,7 @@
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q1-2",
+        "stint": "Q1-",
         "driver": "2026-10-16 00:00:00",
         "start": "",
         "end": "",
@@ -249,7 +249,7 @@
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q1-3",
+        "stint": "Q1-",
         "driver": "2026-10-16 00:00:00",
         "start": "",
         "end": "",
@@ -272,12 +272,12 @@
     {
       "excel_row": 26,
       "event_date": "2026-10-16",
-      "event_time": "#VALUE!",
-      "event_dt": "",
+      "event_time": "18:20:00",
+      "event_dt": "2026-10-16T18:20:00",
       "cells": {
-        "stint": "Q2-",
+        "stint": "Q2-1",
         "driver": "2026-10-16 00:00:00",
-        "start": "#VALUE!",
+        "start": "18:20:00",
         "end": "",
         "ready": ""
       }
@@ -324,12 +324,12 @@
     {
       "excel_row": 32,
       "event_date": "2026-10-16",
-      "event_time": "#VALUE!",
-      "event_dt": "",
+      "event_time": "18:45:00",
+      "event_dt": "2026-10-16T18:45:00",
       "cells": {
-        "stint": "Q3-",
+        "stint": "Q3-1",
         "driver": "2026-10-16 00:00:00",
-        "start": "#VALUE!",
+        "start": "18:45:00",
         "end": "",
         "ready": ""
       }
@@ -574,11 +574,11 @@
     {
       "stint": 17,
       "driver": "2026-10-16 00:00:00",
-      "start": "#VALUE!",
+      "start": "18:20:00",
       "end": "",
       "ready": "",
       "event_date": "2026-10-16",
-      "event_dt": ""
+      "event_dt": "2026-10-16T18:20:00"
     },
     {
       "stint": 18,
@@ -610,11 +610,11 @@
     {
       "stint": 21,
       "driver": "2026-10-16 00:00:00",
-      "start": "#VALUE!",
+      "start": "18:45:00",
       "end": "",
       "ready": "",
       "event_date": "2026-10-16",
-      "event_dt": ""
+      "event_dt": "2026-10-16T18:45:00"
     },
     {
       "stint": 22,

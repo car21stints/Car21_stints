@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:47:11.785422+00:00",
+  "updated_at": "2026-10-18T11:47:52.984435+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261019_Test_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -120,7 +120,7 @@
       "event_time": "09:00:00",
       "event_dt": "2026-10-19T09:00:00",
       "cells": {
-        "stint_session": "AM1-1,2,3",
+        "stint_session": "AM1-1,2",
         "date": "2026-10-19",
         "start": "09:00:00",
         "end": "",
@@ -145,7 +145,7 @@
       "event_time": "09:45:00",
       "event_dt": "2026-10-19T09:45:00",
       "cells": {
-        "stint_session": "AM1-4,5,6",
+        "stint_session": "AM1-3,4",
         "date": "2026-10-19",
         "start": "09:45:00",
         "end": "",
@@ -170,7 +170,7 @@
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "AM1-",
+        "stint_session": "AM1-5,6",
         "date": "2026-10-19",
         "start": "",
         "end": "",

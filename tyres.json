@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:37:59.895884+00:00",
+  "updated_at": "2026-10-18T16:38:42.858921+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261019_Test_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -124,7 +124,7 @@
         "date": "2026-10-19",
         "start": "09:00:00",
         "end": "",
-        "tyre_set": "#11-set07",
+        "tyre_set": "#07-S09-43",
         "in_the_oven": "07:30:00",
         "mounted": "yes",
         "rim_temp": "23",
@@ -135,7 +135,7 @@
         "expected_track_t": "20",
         "bleed": ""
       },
-      "tyre_set": "#11-set07",
+      "tyre_set": "#07-S09-43",
       "oven_time": "07:30:00",
       "oven_dt": "2026-10-19T07:30:00"
     },
@@ -820,7 +820,7 @@
     "start_cell": "H15",
     "header_row": 15,
     "headers": [
-      "#11-set07",
+      "#07-S09-43",
       "Column 2",
       "35",
       "Column 4"

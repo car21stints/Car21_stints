@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:28:10.982790+00:00",
+  "updated_at": "2026-10-18T12:28:51.742613+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261019_Test_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -119,7 +119,7 @@
       "event_time": "13:00:00",
       "event_dt": "2026-10-19T13:00:00",
       "cells": {
-        "stint": "PM1-1,2",
+        "stint": "PM1-1",
         "driver": "2026-10-19 00:00:00",
         "start": "13:00:00",
         "end": "",
@@ -129,12 +129,12 @@
     {
       "excel_row": 9,
       "event_date": "2026-10-19",
-      "event_time": "",
-      "event_dt": "",
+      "event_time": "13:20:00",
+      "event_dt": "2026-10-19T13:20:00",
       "cells": {
-        "stint": "PM1-3,4,5,6",
+        "stint": "PM1-2,3,7",
         "driver": "2026-10-19 00:00:00",
-        "start": "",
+        "start": "13:20:00",
         "end": "",
         "ready": ""
       }
@@ -142,12 +142,12 @@
     {
       "excel_row": 10,
       "event_date": "2026-10-19",
-      "event_time": "",
-      "event_dt": "",
+      "event_time": "14:05:00",
+      "event_dt": "2026-10-19T14:05:00",
       "cells": {
-        "stint": "PM1-",
+        "stint": "PM1-4,5,6",
         "driver": "2026-10-19 00:00:00",
-        "start": "",
+        "start": "14:05:00",
         "end": "",
         "ready": ""
       }
@@ -155,12 +155,12 @@
     {
       "excel_row": 11,
       "event_date": "2026-10-19",
-      "event_time": "",
-      "event_dt": "",
+      "event_time": "15:40:00",
+      "event_dt": "2026-10-19T15:40:00",
       "cells": {
-        "stint": "PM1-",
+        "stint": "PM1-8,9,10",
         "driver": "2026-10-19 00:00:00",
-        "start": "",
+        "start": "15:40:00",
         "end": "",
         "ready": ""
       }
@@ -475,29 +475,29 @@
     {
       "stint": 6,
       "driver": "2026-10-19 00:00:00",
-      "start": "",
+      "start": "13:20:00",
       "end": "",
       "ready": "",
       "event_date": "2026-10-19",
-      "event_dt": ""
+      "event_dt": "2026-10-19T13:20:00"
     },
     {
       "stint": 7,
       "driver": "2026-10-19 00:00:00",
-      "start": "",
+      "start": "14:05:00",
       "end": "",
       "ready": "",
       "event_date": "2026-10-19",
-      "event_dt": ""
+      "event_dt": "2026-10-19T14:05:00"
     },
     {
       "stint": 8,
       "driver": "2026-10-19 00:00:00",
-      "start": "",
+      "start": "15:40:00",
       "end": "",
       "ready": "",
       "event_date": "2026-10-19",
-      "event_dt": ""
+      "event_dt": "2026-10-19T15:40:00"
     },
     {
       "stint": 9,

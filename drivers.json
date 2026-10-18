@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:02:10.643774+00:00",
+  "updated_at": "2026-10-18T12:02:52.071279+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261019_Test_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -219,12 +219,12 @@
     },
     {
       "excel_row": 20,
-      "event_date": "2026-10-17",
+      "event_date": "2026-10-20",
       "event_time": "18:25:00",
-      "event_dt": "2026-10-17T18:25:00",
+      "event_dt": "2026-10-20T18:25:00",
       "cells": {
         "stint": "PM2-1",
-        "driver": "2026-10-16 00:00:00",
+        "driver": "2026-10-20 00:00:00",
         "start": "18:25:00",
         "end": "",
         "ready": ""
@@ -232,12 +232,12 @@
     },
     {
       "excel_row": 21,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint": "PM2-2",
-        "driver": "2026-10-16 00:00:00",
+        "driver": "2026-10-20 00:00:00",
         "start": "",
         "end": "",
         "ready": ""
@@ -245,12 +245,12 @@
     },
     {
       "excel_row": 22,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint": "PM2-3",
-        "driver": "2026-10-16 00:00:00",
+        "driver": "2026-10-20 00:00:00",
         "start": "",
         "end": "",
         "ready": ""
@@ -258,12 +258,12 @@
     },
     {
       "excel_row": 23,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint": "PM2-",
-        "driver": "2026-10-16 00:00:00",
+        "driver": "2026-10-20 00:00:00",
         "start": "",
         "end": "",
         "ready": ""
@@ -271,25 +271,25 @@
     },
     {
       "excel_row": 26,
-      "event_date": "2026-10-17",
-      "event_time": "18:50:00",
-      "event_dt": "2026-10-17T18:50:00",
+      "event_date": "2026-10-20",
+      "event_time": "#N/A",
+      "event_dt": "",
       "cells": {
-        "stint": "Q2-1",
-        "driver": "2026-10-16 00:00:00",
-        "start": "18:50:00",
+        "stint": "0-1",
+        "driver": "#N/A",
+        "start": "#N/A",
         "end": "",
         "ready": ""
       }
     },
     {
       "excel_row": 27,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q2-2",
-        "driver": "2026-10-16 00:00:00",
+        "stint": "0-2",
+        "driver": "#N/A",
         "start": "",
         "end": "",
         "ready": ""
@@ -297,12 +297,12 @@
     },
     {
       "excel_row": 28,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q2-",
-        "driver": "2026-10-16 00:00:00",
+        "stint": "0-",
+        "driver": "#N/A",
         "start": "",
         "end": "",
         "ready": ""
@@ -310,12 +310,12 @@
     },
     {
       "excel_row": 29,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q2-",
-        "driver": "2026-10-16 00:00:00",
+        "stint": "0-",
+        "driver": "#N/A",
         "start": "",
         "end": "",
         "ready": ""
@@ -323,25 +323,25 @@
     },
     {
       "excel_row": 32,
-      "event_date": "2026-10-17",
-      "event_time": "19:15:00",
-      "event_dt": "2026-10-17T19:15:00",
+      "event_date": "2026-10-21",
+      "event_time": "00:00:00",
+      "event_dt": "2026-10-21T00:00:00",
       "cells": {
-        "stint": "Q3-1",
-        "driver": "2026-10-16 00:00:00",
-        "start": "19:15:00",
+        "stint": "-1",
+        "driver": "#N/A",
+        "start": "00:00:00",
         "end": "",
         "ready": ""
       }
     },
     {
       "excel_row": 33,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q3-2",
-        "driver": "2026-10-16 00:00:00",
+        "stint": "-2",
+        "driver": "#N/A",
         "start": "",
         "end": "",
         "ready": ""
@@ -349,12 +349,12 @@
     },
     {
       "excel_row": 34,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q3-",
-        "driver": "2026-10-16 00:00:00",
+        "stint": "-",
+        "driver": "#N/A",
         "start": "",
         "end": "",
         "ready": ""
@@ -362,12 +362,12 @@
     },
     {
       "excel_row": 35,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint": "Q3-",
-        "driver": "2026-10-16 00:00:00",
+        "stint": "-",
+        "driver": "#N/A",
         "start": "",
         "end": "",
         "ready": ""
@@ -375,25 +375,25 @@
     },
     {
       "excel_row": 38,
-      "event_date": "2026-10-19",
-      "event_time": "16:30:00",
-      "event_dt": "2026-10-19T16:30:00",
+      "event_date": "2026-10-21",
+      "event_time": "#N/A",
+      "event_dt": "",
       "cells": {
-        "stint": "R1-1",
-        "driver": "2026-10-19 00:00:00",
-        "start": "16:30:00",
+        "stint": "-1",
+        "driver": "#N/A",
+        "start": "#N/A",
         "end": "",
         "ready": ""
       }
     },
     {
       "excel_row": 39,
-      "event_date": "2026-10-19",
+      "event_date": "2026-10-21",
       "event_time": "18:50:00",
-      "event_dt": "2026-10-19T18:50:00",
+      "event_dt": "2026-10-21T18:50:00",
       "cells": {
-        "stint": "R1-2",
-        "driver": "2026-10-19 00:00:00",
+        "stint": "-2",
+        "driver": "#N/A",
         "start": "18:50:00",
         "end": "",
         "ready": ""
@@ -401,12 +401,12 @@
     },
     {
       "excel_row": 40,
-      "event_date": "2026-10-20",
+      "event_date": "2026-10-22",
       "event_time": "00:00:00",
-      "event_dt": "2026-10-20T00:00:00",
+      "event_dt": "2026-10-22T00:00:00",
       "cells": {
-        "stint": "R1-",
-        "driver": "2026-10-19 00:00:00",
+        "stint": "-",
+        "driver": "#N/A",
         "start": "00:00:00",
         "end": "",
         "ready": ""
@@ -414,12 +414,12 @@
     },
     {
       "excel_row": 41,
-      "event_date": "2026-10-20",
+      "event_date": "2026-10-22",
       "event_time": "00:00:00",
-      "event_dt": "2026-10-20T00:00:00",
+      "event_dt": "2026-10-22T00:00:00",
       "cells": {
-        "stint": "R1-",
-        "driver": "2026-10-19 00:00:00",
+        "stint": "-",
+        "driver": "#N/A",
         "start": "00:00:00",
         "end": "",
         "ready": ""
@@ -537,147 +537,147 @@
     },
     {
       "stint": 13,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "2026-10-20 00:00:00",
       "start": "18:25:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-17",
-      "event_dt": "2026-10-17T18:25:00"
+      "event_date": "2026-10-20",
+      "event_dt": "2026-10-20T18:25:00"
     },
     {
       "stint": 14,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "2026-10-20 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_dt": ""
     },
     {
       "stint": 15,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "2026-10-20 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_dt": ""
     },
     {
       "stint": 16,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "2026-10-20 00:00:00",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_dt": ""
     },
     {
       "stint": 17,
-      "driver": "2026-10-16 00:00:00",
-      "start": "18:50:00",
+      "driver": "#N/A",
+      "start": "#N/A",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-17",
-      "event_dt": "2026-10-17T18:50:00"
+      "event_date": "2026-10-20",
+      "event_dt": ""
     },
     {
       "stint": 18,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "#N/A",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_dt": ""
     },
     {
       "stint": 19,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "#N/A",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_dt": ""
     },
     {
       "stint": 20,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "#N/A",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_dt": ""
     },
     {
-      "stint": 21,
-      "driver": "2026-10-16 00:00:00",
-      "start": "19:15:00",
+      "stint": -1,
+      "driver": "#N/A",
+      "start": "00:00:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-17",
-      "event_dt": "2026-10-17T19:15:00"
+      "event_date": "2026-10-21",
+      "event_dt": "2026-10-21T00:00:00"
     },
     {
-      "stint": 22,
-      "driver": "2026-10-16 00:00:00",
+      "stint": -2,
+      "driver": "#N/A",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_dt": ""
     },
     {
       "stint": 23,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "#N/A",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_dt": ""
     },
     {
       "stint": 24,
-      "driver": "2026-10-16 00:00:00",
+      "driver": "#N/A",
       "start": "",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_dt": ""
     },
     {
-      "stint": 25,
-      "driver": "2026-10-19 00:00:00",
-      "start": "16:30:00",
+      "stint": -1,
+      "driver": "#N/A",
+      "start": "#N/A",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-19",
-      "event_dt": "2026-10-19T16:30:00"
+      "event_date": "2026-10-21",
+      "event_dt": ""
     },
     {
-      "stint": 26,
-      "driver": "2026-10-19 00:00:00",
+      "stint": -2,
+      "driver": "#N/A",
       "start": "18:50:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-19",
-      "event_dt": "2026-10-19T18:50:00"
+      "event_date": "2026-10-21",
+      "event_dt": "2026-10-21T18:50:00"
     },
     {
       "stint": 27,
-      "driver": "2026-10-19 00:00:00",
+      "driver": "#N/A",
       "start": "00:00:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-20",
-      "event_dt": "2026-10-20T00:00:00"
+      "event_date": "2026-10-22",
+      "event_dt": "2026-10-22T00:00:00"
     },
     {
       "stint": 28,
-      "driver": "2026-10-19 00:00:00",
+      "driver": "#N/A",
       "start": "00:00:00",
       "end": "",
       "ready": "",
-      "event_date": "2026-10-20",
-      "event_dt": "2026-10-20T00:00:00"
+      "event_date": "2026-10-22",
+      "event_dt": "2026-10-22T00:00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:02:10.643774+00:00",
+  "updated_at": "2026-10-18T12:02:52.071279+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261019_Test_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -416,12 +416,12 @@
     },
     {
       "excel_row": 20,
-      "event_date": "2026-10-17",
+      "event_date": "2026-10-20",
       "event_time": "18:25:00",
-      "event_dt": "2026-10-17T18:25:00",
+      "event_dt": "2026-10-20T18:25:00",
       "cells": {
         "stint_session": "PM2-1",
-        "date": "2026-10-17",
+        "date": "2026-10-20",
         "start": "18:25:00",
         "end": "",
         "tyre_set": "#21-E10-49",
@@ -437,16 +437,16 @@
       },
       "tyre_set": "#21-E10-49",
       "oven_time": "16:55:00",
-      "oven_dt": "2026-10-17T16:55:00"
+      "oven_dt": "2026-10-20T16:55:00"
     },
     {
       "excel_row": 21,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint_session": "PM2-2",
-        "date": "2026-10-16",
+        "date": "2026-10-20",
         "start": "",
         "end": "",
         "tyre_set": "#21-E10-50",
@@ -466,12 +466,12 @@
     },
     {
       "excel_row": 22,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint_session": "PM2-3",
-        "date": "2026-10-16",
+        "date": "2026-10-20",
         "start": "",
         "end": "",
         "tyre_set": "#21-E10-51",
@@ -491,12 +491,12 @@
     },
     {
       "excel_row": 23,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
         "stint_session": "PM2-",
-        "date": "2026-10-16",
+        "date": "2026-10-20",
         "start": "",
         "end": "",
         "tyre_set": "00:00:00",
@@ -516,16 +516,16 @@
     },
     {
       "excel_row": 26,
-      "event_date": "2026-10-17",
-      "event_time": "18:50:00",
-      "event_dt": "2026-10-17T18:50:00",
+      "event_date": "2026-10-20",
+      "event_time": "#N/A",
+      "event_dt": "",
       "cells": {
-        "stint_session": "Q2-1",
-        "date": "2026-10-17",
-        "start": "18:50:00",
+        "stint_session": "0-1",
+        "date": "2026-10-20",
+        "start": "#N/A",
         "end": "",
         "tyre_set": "#21-S09-44",
-        "in_the_oven": "17:20:00",
+        "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "25",
         "FL": "0.92",
@@ -536,17 +536,17 @@
         "bleed": "-0.024"
       },
       "tyre_set": "#21-S09-44",
-      "oven_time": "17:20:00",
-      "oven_dt": "2026-10-17T17:20:00"
+      "oven_time": "",
+      "oven_dt": ""
     },
     {
       "excel_row": 27,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q2-2",
-        "date": "2026-10-16",
+        "stint_session": "0-2",
+        "date": "2026-10-20",
         "start": "",
         "end": "",
         "tyre_set": "#21-S09-45",
@@ -566,12 +566,12 @@
     },
     {
       "excel_row": 28,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q2-",
-        "date": "2026-10-16",
+        "stint_session": "0-",
+        "date": "2026-10-20",
         "start": "",
         "end": "",
         "tyre_set": "00:00:00",
@@ -591,12 +591,12 @@
     },
     {
       "excel_row": 29,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-20",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q2-",
-        "date": "2026-10-16",
+        "stint_session": "0-",
+        "date": "2026-10-20",
         "start": "",
         "end": "",
         "tyre_set": "00:00:00",
@@ -616,16 +616,16 @@
     },
     {
       "excel_row": 32,
-      "event_date": "2026-10-17",
-      "event_time": "19:15:00",
-      "event_dt": "2026-10-17T19:15:00",
+      "event_date": "2026-10-21",
+      "event_time": "00:00:00",
+      "event_dt": "2026-10-21T00:00:00",
       "cells": {
-        "stint_session": "Q3-1",
-        "date": "2026-10-17",
-        "start": "19:15:00",
+        "stint_session": "-1",
+        "date": "2026-10-21",
+        "start": "00:00:00",
         "end": "",
         "tyre_set": "#21-S09-46",
-        "in_the_oven": "17:45:00",
+        "in_the_oven": "22:30:00",
         "mounted": "y",
         "rim_temp": "",
         "FL": "",
@@ -636,17 +636,17 @@
         "bleed": ""
       },
       "tyre_set": "#21-S09-46",
-      "oven_time": "17:45:00",
-      "oven_dt": "2026-10-17T17:45:00"
+      "oven_time": "22:30:00",
+      "oven_dt": "2026-10-20T22:30:00"
     },
     {
       "excel_row": 33,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q3-2",
-        "date": "2026-10-16",
+        "stint_session": "-2",
+        "date": "2026-10-21",
         "start": "",
         "end": "",
         "tyre_set": "#21-S09-47",
@@ -666,12 +666,12 @@
     },
     {
       "excel_row": 34,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q3-",
-        "date": "2026-10-16",
+        "stint_session": "-",
+        "date": "2026-10-21",
         "start": "",
         "end": "",
         "tyre_set": "00:00:00",
@@ -691,12 +691,12 @@
     },
     {
       "excel_row": 35,
-      "event_date": "2026-10-16",
+      "event_date": "2026-10-21",
       "event_time": "",
       "event_dt": "",
       "cells": {
-        "stint_session": "Q3-",
-        "date": "2026-10-16",
+        "stint_session": "-",
+        "date": "2026-10-21",
         "start": "",
         "end": "",
         "tyre_set": "00:00:00",
@@ -716,16 +716,16 @@
     },
     {
       "excel_row": 38,
-      "event_date": "2026-10-19",
-      "event_time": "16:30:00",
-      "event_dt": "2026-10-19T16:30:00",
+      "event_date": "2026-10-21",
+      "event_time": "#N/A",
+      "event_dt": "",
       "cells": {
-        "stint_session": "R1-1",
-        "date": "2026-10-19",
-        "start": "16:30:00",
+        "stint_session": "-1",
+        "date": "2026-10-21",
+        "start": "#N/A",
         "end": "",
         "tyre_set": "#21-S09-46",
-        "in_the_oven": "15:00:00",
+        "in_the_oven": "",
         "mounted": "y",
         "rim_temp": "22",
         "FL": "0.92",
@@ -736,17 +736,17 @@
         "bleed": "-0.03"
       },
       "tyre_set": "#21-S09-46",
-      "oven_time": "15:00:00",
-      "oven_dt": "2026-10-19T15:00:00"
+      "oven_time": "",
+      "oven_dt": ""
     },
     {
       "excel_row": 39,
-      "event_date": "2026-10-19",
+      "event_date": "2026-10-21",
       "event_time": "18:50:00",
-      "event_dt": "2026-10-19T18:50:00",
+      "event_dt": "2026-10-21T18:50:00",
       "cells": {
-        "stint_session": "R1-2",
-        "date": "2026-10-19",
+        "stint_session": "-2",
+        "date": "2026-10-21",
         "start": "18:50:00",
         "end": "",
         "tyre_set": "#21-S09-47",
@@ -762,16 +762,16 @@
       },
       "tyre_set": "#21-S09-47",
       "oven_time": "17:20:00",
-      "oven_dt": "2026-10-19T17:20:00"
+      "oven_dt": "2026-10-21T17:20:00"
     },
     {
       "excel_row": 40,
-      "event_date": "2026-10-20",
+      "event_date": "2026-10-22",
       "event_time": "00:00:00",
-      "event_dt": "2026-10-20T00:00:00",
+      "event_dt": "2026-10-22T00:00:00",
       "cells": {
-        "stint_session": "R1-",
-        "date": "2026-10-20",
+        "stint_session": "-",
+        "date": "2026-10-22",
         "start": "00:00:00",
         "end": "",
         "tyre_set": "#21-S06-30",
@@ -787,16 +787,16 @@
       },
       "tyre_set": "#21-S06-30",
       "oven_time": "22:30:00",
-      "oven_dt": "2026-10-19T22:30:00"
+      "oven_dt": "2026-10-21T22:30:00"
     },
     {
       "excel_row": 41,
-      "event_date": "2026-10-20",
+      "event_date": "2026-10-22",
       "event_time": "00:00:00",
-      "event_dt": "2026-10-20T00:00:00",
+      "event_dt": "2026-10-22T00:00:00",
       "cells": {
-        "stint_session": "R1-",
-        "date": "2026-10-20",
+        "stint_session": "-",
+        "date": "2026-10-22",
         "start": "00:00:00",
         "end": "",
         "tyre_set": "00:00:00",
@@ -812,7 +812,7 @@
       },
       "tyre_set": "00:00:00",
       "oven_time": "22:30:00",
-      "oven_dt": "2026-10-19T22:30:00"
+      "oven_dt": "2026-10-21T22:30:00"
     }
   ],
   "tyre_list": {

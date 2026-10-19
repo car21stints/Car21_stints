@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:33:42.025967+00:00",
+  "updated_at": "2026-10-19T09:34:24.221186+00:00",
   "source_file": "C:\\_lavoro\\2026\\GTWC\\Events\\261020_E10_Portimao\\261019_Test_Portimao.xlsm",
   "sheet_name": "Tyres web",
   "config": {
@@ -183,7 +183,7 @@
         "RL": "0.92",
         "RR": "0.99",
         "expected_track_t": "20",
-        "bleed": ""
+        "bleed": "-0.024"
       },
       "tyre_set": "#21-T15-01",
       "oven_time": "09:05:00",
